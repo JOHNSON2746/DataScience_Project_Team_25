@@ -32,7 +32,12 @@ Perform intersectional analysis using employee attributes such as:
 •	Ethnicity (inferred from name/citizenship)  
 •	Education level  
 •	Evaluate how policies and procedures affect different groups.  
-  
- 
+
+**2.Synthetic Data Generation** 
+•	Create datasets mimicking a typical company’s employee information and internal practices.  
+
+**3.Validation**
+•	Test the methodology on WGEA and other public datasets.  
+•	Apply it to synthetic datasets for generalized insights.  
  
 
