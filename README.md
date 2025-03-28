@@ -1,8 +1,8 @@
 # Data Science Project Team 25(MAST90106_2025_SM1)
 # Intersectional Data Analysis of Organisational Employee Data to Promote Equity and Inclusion 
 # Links to related materials and datasets
-[WEGA Datasets Dashboard](https://www.wgea.gov.au/Data-Explorer)。
-
+[WEGA Datasets Dashboard](https://www.wgea.gov.au/Data-Explorer)  
+[WEGA Datasets ](https://data.gov.au/dataset/ds-dga-4d35cd80-2538-4705-82f3-d0d18e823d98/details?q=wgea)
 ## Project Overview1
   This project aims to develop and validate a **methodology for intersectional data analysis** to uncover inequities within organizational employee data. By examining the intersections of gender, age, ethnicity, and education, the project supports evidence-based policy-making to foster workplace **equity and inclusion**.
   
