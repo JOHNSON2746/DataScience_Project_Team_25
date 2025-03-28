@@ -1,3 +1,8 @@
-# DataScience_Project_Team_25
-## MAST90106_2025_SM1
-### Topic:Intersectional data analysis of organisational employee data to promote equity and inclusion
+# Data Science Project Team 25(MAST90106_2025_SM1)
+# Intersectional Data Analysis of Organisational Employee Data to Promote Equity and Inclusion 
+
+## Project Overview1
+  This project aims to develop and validate a **methodology for intersectional data analysis** to uncover inequities within organizational employee data. By examining the intersections of gender, age, ethnicity, and education, the project supports evidence-based policy-making to foster workplace **equity and inclusion**.
+  
+## Objectives
+
