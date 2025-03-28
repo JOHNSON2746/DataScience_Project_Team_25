@@ -33,7 +33,7 @@ Perform intersectional analysis using employee attributes such as:
 •	Education level  
 •	Evaluate how policies and procedures affect different groups.  
 
-**2.Synthetic Data Generation** 
+**2.Synthetic Data Generation**  
 •	Create datasets mimicking a typical company’s employee information and internal practices.  
 
 **3.Validation**
