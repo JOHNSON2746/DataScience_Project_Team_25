@@ -1,5 +1,12 @@
 # Data Science Project Team 25(MAST90106_2025_SM1)
 # Intersectional Data Analysis of Organisational Employee Data to Promote Equity and Inclusion 
+# Project Team
+Students: Zige Liang, Chao Tang, Hengjin Hou, Xueying Yuan, Yifu Shen  
+
+Supervisors: Ian Gallagher, Joseph Odewole  
+
+Industry Partner: Dr. Arti Agrawal, CEO & Founder, Vividhata Pty Ltd  
+
 # Data Sources
 [WEGA Datasets Dashboard](https://www.wgea.gov.au/Data-Explorer)  
 [WEGA Datasets ](https://data.gov.au/dataset/ds-dga-4d35cd80-2538-4705-82f3-d0d18e823d98/details?q=wgea)
