@@ -25,7 +25,14 @@ Industry Partner: Dr. Arti Agrawal, CEO & Founder, Vividhata Pty Ltd
  4.Apply and validate the analysis methodology on: Public datasets (e.g. WGEA)、Synthetic datasets  
 
 ## Methodology  
-
+**1.Data Analysis**  
+Perform intersectional analysis using employee attributes such as:  
+•	Gender  
+•	Age  
+•	Ethnicity (inferred from name/citizenship)  
+•	Education level  
+•	Evaluate how policies and procedures affect different groups.  
+  
  
  
 
