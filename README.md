@@ -16,7 +16,7 @@ Industry Partner: Dr. Arti Agrawal, CEO & Founder, Vividhata Pty Ltd
 [ Using Intersectionality to Understand Structural Inequality in Scotland: Evidence Synthesis](
 https://www.gov.scot/publications/using-intersectionality-understand-structural-inequality-scotland-evidence-synthesis/pages/6/)  
 [The Racialized and Gendered Workplace: Applying an Intersectional Lens to a Field Experiment on Hiring Discrimination in Five European Labor Markets](https://journals.sagepub.com/doi/full/10.1177/0190272520902994)  
-[The Racialized and Gendered Workplace: Applying an Intersectional Lens to a Field Experiment on Hiring Discrimination in Five European Labor Markets](https://journals.sagepub.com/doi/full/10.1177/0190272520902994)  
+
 
 
 ## Project Overview
