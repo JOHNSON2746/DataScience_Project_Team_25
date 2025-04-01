@@ -8,10 +8,10 @@ Supervisors: Ian Gallagher, Joseph Odewole
 Industry Partner: Dr. Arti Agrawal, CEO & Founder, Vividhata Pty Ltd  
 
 # Data Sources
-Provided by Brief
+## Provided by Brief  
 [WEGA Datasets Dashboard](https://www.wgea.gov.au/Data-Explorer)  
 [WEGA Datasets ](https://data.gov.au/dataset/ds-dga-4d35cd80-2538-4705-82f3-d0d18e823d98/details?q=wgea)  
-#Own Search
+## Own Search  
 [Intersectional Data Analysis Guidance](https://www.genderequalitycommission.vic.gov.au/applying-intersectionality/workplace-gender-auditing-and-analysis)  
 [ Using Intersectionality to Understand Structural Inequality in Scotland: Evidence Synthesis](
 https://www.gov.scot/publications/using-intersectionality-understand-structural-inequality-scotland-evidence-synthesis/pages/6/)  
