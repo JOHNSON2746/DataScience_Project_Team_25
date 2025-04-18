@@ -1,0 +1,31 @@
+SEX,YEAR,Type of legal organisation,NUM JOBS,INCOME
+Male,2017,Incorporated Private sector entities,5942.463,36112.0
+Male,2018,Incorporated Private sector entities,6132.191,38069.0
+Male,2019,Incorporated Private sector entities,6170.49,40406.0
+Male,2020,Incorporated Private sector entities,6462.973,39376.0
+Male,2021,Incorporated Private sector entities,7098.518,36906.0
+Female,2017,Incorporated Private sector entities,4864.181,21282.0
+Female,2018,Incorporated Private sector entities,5106.979,22232.0
+Female,2019,Incorporated Private sector entities,5144.559,24457.0
+Female,2020,Incorporated Private sector entities,5482.469,24311.0
+Female,2021,Incorporated Private sector entities,6228.843,21060.0
+Male,2017,Unincorporated Private sector entities,2117.972,18348.0
+Male,2018,Unincorporated Private sector entities,2110.939,18910.0
+Male,2019,Unincorporated Private sector entities,2116.813,19487.0
+Male,2020,Unincorporated Private sector entities,2129.031,21667.0
+Male,2021,Unincorporated Private sector entities,2197.164,19681.0
+Female,2017,Unincorporated Private sector entities,1817.207,12340.0
+Female,2018,Unincorporated Private sector entities,1840.008,12788.0
+Female,2019,Unincorporated Private sector entities,1839.84,14281.0
+Female,2020,Unincorporated Private sector entities,1912.028,15245.0
+Female,2021,Unincorporated Private sector entities,2040.34,12932.0
+Male,2017,Public sector entities,1211.376,67100.0
+Male,2018,Public sector entities,1269.174,66652.0
+Male,2019,Public sector entities,1216.929,69466.0
+Male,2020,Public sector entities,1248.638,74103.5
+Male,2021,Public sector entities,1360.068,69352.0
+Female,2017,Public sector entities,1958.64,48900.0
+Female,2018,Public sector entities,2082.929,48800.0
+Female,2019,Public sector entities,1940.813,52102.0
+Female,2020,Public sector entities,2066.27,57006.0
+Female,2021,Public sector entities,2266.615,52273.0
