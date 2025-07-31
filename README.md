@@ -10,7 +10,7 @@ Industry Partner: Dr. Arti Agrawal, CEO & Founder, Vividhata Pty Ltd
 # Code Structure
 abs_raw_data: Raw data tables from the Australia Bureau of Statistics
 
-code: reader(read in data from ABS), generater(use Baysian Network to generate data), evaluater(compare the average level data to company's generated data)
+code: reader(read in data from ABS), generator(use Baysian Network to generate data), evaluator(compare the average level data to company's generated data)
 
 scripts: run the code
 
