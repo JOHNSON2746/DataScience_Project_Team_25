@@ -7,10 +7,14 @@ Supervisors: Ian Gallagher, Joseph Odewole
 
 Industry Partner: Dr. Arti Agrawal, CEO & Founder, Vividhata Pty Ltd  
 
+# Code Structure
+abs_raw_data: Raw data tables from the Australia Bureau of Statistics
+
+code: reader(read in data from ABS), generater(use Baysian Network to generate data), evaluater(compare the average level data to company's generated data)
+
+scripts: run the code
+
 # Data Sources
-## Provided by Brief  
-[WEGA Datasets Dashboard](https://www.wgea.gov.au/Data-Explorer)  
-[WEGA Datasets ](https://data.gov.au/dataset/ds-dga-4d35cd80-2538-4705-82f3-d0d18e823d98/details?q=wgea)  
 ## Own Search  
 [Intersectional Data Analysis Guidance](https://www.genderequalitycommission.vic.gov.au/applying-intersectionality/workplace-gender-auditing-and-analysis)  
 [ Using Intersectionality to Understand Structural Inequality in Scotland: Evidence Synthesis](
