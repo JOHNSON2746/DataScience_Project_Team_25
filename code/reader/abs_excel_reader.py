@@ -2,6 +2,12 @@ import pandas as pd
 import numpy as np
 from typing import Dict, List, Tuple, Any, Optional
 
+"""
+reader需要输入特定table序号，需要读取的feature name，
+optional 读取的省份，number of jobs income 在同一个输出表中，注意要兼容输入年份数量可能不同
+从hardcode中的feature rows表中读取需要read in的行数
+"""
+
 def read_excel_with_merged_cells(file_path: str, sheet_name: str = 0) -> pd.DataFrame:
     """
     读取包含合并单元格的Excel表格，提取多层表头结构并整理数据
