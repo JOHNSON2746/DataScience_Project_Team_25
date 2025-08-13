@@ -1,139 +1,64 @@
 import pandas as pd
-import numpy as np
-from typing import Dict, List, Tuple, Any, Optional
+import json
 
-"""
-reader需要输入特定table序号，需要读取的feature name，
-optional 读取的省份，number of jobs income 在同一个输出表中，注意要兼容输入年份数量可能不同
-从hardcode中的feature rows表中读取需要read in的行数
-"""
+# feature_rows = {
+#     "Age group": 17,
+#     "Industry": 19,
+#     "Institutional sector": 5,
+#     "Type of legal organisation": 3,
+#     "Employment size": 4,
+#     "Job duration": 4
+# }
 
-def read_excel_with_merged_cells(file_path: str, sheet_name: str = 0) -> pd.DataFrame:
-    """
-    读取包含合并单元格的Excel表格，提取多层表头结构并整理数据
-    
-    参数:
-        file_path: Excel文件路径
-        sheet_name: 工作表名称或索引
-    
-    返回:
-        规范化的DataFrame，包含多层列索引
-    """
-    # 读取Excel文件，第一次读取获取顶层表头
-    df_top_header = pd.read_excel(file_path, sheet_name=sheet_name, header=None, nrows=1)
-    
-    # 第二次读取获取底层表头
-    df_bottom_header = pd.read_excel(file_path, sheet_name=sheet_name, header=None, nrows=1, skiprows=1)
-    
-    # 第三次读取获取实际数据
-    df_data = pd.read_excel(file_path, sheet_name=sheet_name, header=None, skiprows=2)
-    
-    # 处理合并单元格的顶层表头
-    top_header = df_top_header.iloc[0].tolist()
-    filled_top_header = fill_merged_cells(top_header)
-    
-    # 处理合并单元格的底层表头
-    bottom_header = df_bottom_header.iloc[0].tolist()
-    filled_bottom_header = fill_merged_cells(bottom_header)
-    
-    # 设置多层列索引
-    df_data.columns = pd.MultiIndex.from_arrays([filled_top_header, filled_bottom_header])
-    
-    # 假设第一列是行业类型，设置为索引
-    if not df_data.empty:
-        df_data.set_index(df_data.columns[0], inplace=True)
-        df_data.index.name = '行业类型'
-    
-    return df_data
+# with open("feature_rows.json", "w", encoding="utf-8") as f:
+#     json.dump(feature_rows, f, ensure_ascii=False, indent=4)
 
-def fill_merged_cells(header_list: List[Any]) -> List[Any]:
-    """填充合并单元格导致的None值"""
-    filled = []
-    last_value = None
-    for value in header_list:
-        if pd.notna(value):
-            last_value = value
-        filled.append(last_value)
-    return filled
+def read_feature_rows(json_path):
+    with open(json_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+    
+def fill_gender(genders):
+    return pd.Series(genders).fillna(method='ffill').tolist()
 
-def analyze_header_structure(df: pd.DataFrame) -> Dict[str, List[str]]:
-    """
-    分析表头结构，确定每年包含的列数
-    
-    参数:
-        df: 带有多层列索引的DataFrame
-    
-    返回:
-        年份与对应列名列表的映射
-    """
-    if df.columns.nlevels < 2:
-        raise ValueError("DataFrame需要至少两层列索引")
-    #TO FIX
-    year_columns = {}
-    for year, gender in df.columns:
-        if year not in year_columns:
-            year_columns[year] = []
-        year_columns[year].append(gender)
-    
-    return year_columns
+def extract_feature_tables(excel_path, feature_rows_path, sheet_name=0):
+    feature_rows = read_feature_rows(feature_rows_path)
+    df = pd.read_excel(excel_path, sheet_name=sheet_name, header=None)
+    genders = df.iloc[6, 2:].tolist()
+    genders = fill_gender(genders)
+    years = df.iloc[7, 2:].tolist()
+    data_start_col = 2
+    group_width = 5
+    feature_start_row = 9
+    feature_tables = {}
 
-def restructure_data(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    将多层列索引的数据重构为长格式，便于分析
-    
-    参数:
-        df: 带有多层列索引的原始DataFrame
-    
-    返回:
-        重构后的长格式DataFrame
-    """
-    #TO FIX
-    # 重置索引，将行业类型转为列
-    df_melted = df.reset_index()
-    
-    # 将DataFrame从宽格式转换为长格式
-    df_long = pd.melt(
-        df_melted, 
-        id_vars=['行业类型'],
-        var_name=['年份', '性别'],
-        value_name='数据值'
-    )
-    
-    return df_long
+    for feature, row_count in feature_rows.items():
+        feature_data = df.iloc[feature_start_row:feature_start_row+row_count, :]
+        class_names = feature_data.iloc[:, 0].values.tolist()
+        values = feature_data.iloc[:, data_start_col:].values
+        records = []
+        for i_class in range(row_count):
+            class_name = class_names[i_class]
+            noj = values[i_class, :15]
+            mincome = values[i_class, 15:30]
+            for idx in range(15):
+                year = years[idx]
+                gender = genders[idx]
+                records.append({
+                    'feature': class_name,
+                    'year': year,
+                    'gender': gender,
+                    'number_of_jobs': noj[idx],
+                    'median_income': mincome[idx]
+                })
+        feature_tables[feature] = pd.DataFrame(records)
+        feature_start_row += row_count
 
-def process_excel_file(file_path: str, sheet_name: str = 0) -> pd.DataFrame:
-    """
-    处理Excel文件的主函数，整合数据读取和处理流程
-    
-    参数:
-        file_path: Excel文件路径
-        sheet_name: 工作表名称或索引
-    
-    返回:
-        处理完成的长格式DataFrame
-    """
-    # 读取数据
-    df = read_excel_with_merged_cells(file_path, sheet_name)
-    
-    # 分析表头结构
-    header_structure = analyze_header_structure(df)
-    print(f"检测到的年份结构: {header_structure}")
-    
-    # 重构数据
-    df_processed = restructure_data(df)
-    
-    return df_processed
+    return feature_tables
 
-# if __name__ == "__main__":
-#     # 使用示例
-#     file_path = "your_excel_file.xlsx"  # 替换为实际文件路径
-#     try:
-#         processed_data = process_excel_file(file_path)
-#         print("数据处理完成，结构示例:")
-#         print(processed_data.head())
-        
-#         # 保存处理后的数据
-#         processed_data.to_csv("processed_data.csv", index=False)
-#         print("数据已保存至 processed_data.csv")
-#     except Exception as e:
-#         print(f"处理过程中发生错误: {e}")    
+# 用法示例
+# To modify raw data path
+# tables = extract_feature_tables("test_data/Table1_test.xlsx", "feature_rows.json", "Table 1.1")
+# for feature, df in tables.items():
+#     filename = f"{feature}_gender.csv"
+#     df.to_csv(f"test_result/{filename}", index=False)
+#     print(f"{feature} 已保存为 {filename}")
