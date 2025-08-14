@@ -1,0 +1,5 @@
+gender,feature,number_of_jobs,median_income,PROPORTION
+FEMALES,Households,8138.682000000001,63606.0,0.7972075975804456
+FEMALES,Non-profit institutions serving households,2070.305,144696.0,0.20279240241955443
+MALES,Households,9606.069,95599.0,0.9089034715681121
+MALES,Non-profit institutions serving households,962.7860000000001,117352.0,0.09109652843188785
