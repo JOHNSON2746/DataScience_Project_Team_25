@@ -1,0 +1,61 @@
+,gender,feature,median_income,PROPORTION
+0,FEMALES,Incorporated Private sector entities,<10k,0.0
+1,FEMALES,Incorporated Private sector entities,10-20k,0.0
+2,FEMALES,Incorporated Private sector entities,20-30k,0.2813089993706734
+3,FEMALES,Incorporated Private sector entities,30-50k,0.0
+4,FEMALES,Incorporated Private sector entities,50-70k,0.0
+5,FEMALES,Incorporated Private sector entities,70-90k,0.0
+6,FEMALES,Incorporated Private sector entities,90-110k,0.0
+7,FEMALES,Incorporated Private sector entities,110-130k,0.0
+8,FEMALES,Incorporated Private sector entities,130-150k,0.0
+9,FEMALES,Incorporated Private sector entities,>150k,0.0
+10,FEMALES,Public sector entities,<10k,0.0
+11,FEMALES,Public sector entities,10-20k,0.0
+12,FEMALES,Public sector entities,20-30k,0.0
+13,FEMALES,Public sector entities,30-50k,0.0
+14,FEMALES,Public sector entities,50-70k,0.10813929095867422
+15,FEMALES,Public sector entities,70-90k,0.0
+16,FEMALES,Public sector entities,90-110k,0.0
+17,FEMALES,Public sector entities,110-130k,0.0
+18,FEMALES,Public sector entities,130-150k,0.0
+19,FEMALES,Public sector entities,>150k,0.0
+20,FEMALES,Unincorporated Private sector entities,<10k,0.0
+21,FEMALES,Unincorporated Private sector entities,10-20k,0.09901405496119152
+22,FEMALES,Unincorporated Private sector entities,20-30k,0.0
+23,FEMALES,Unincorporated Private sector entities,30-50k,0.0
+24,FEMALES,Unincorporated Private sector entities,50-70k,0.0
+25,FEMALES,Unincorporated Private sector entities,70-90k,0.0
+26,FEMALES,Unincorporated Private sector entities,90-110k,0.0
+27,FEMALES,Unincorporated Private sector entities,110-130k,0.0
+28,FEMALES,Unincorporated Private sector entities,130-150k,0.0
+29,FEMALES,Unincorporated Private sector entities,>150k,0.0
+30,MALES,Incorporated Private sector entities,<10k,0.0
+31,MALES,Incorporated Private sector entities,10-20k,0.0
+32,MALES,Incorporated Private sector entities,20-30k,0.0
+33,MALES,Incorporated Private sector entities,30-50k,0.33354310887350536
+34,MALES,Incorporated Private sector entities,50-70k,0.0
+35,MALES,Incorporated Private sector entities,70-90k,0.0
+36,MALES,Incorporated Private sector entities,90-110k,0.0
+37,MALES,Incorporated Private sector entities,110-130k,0.0
+38,MALES,Incorporated Private sector entities,130-150k,0.0
+39,MALES,Incorporated Private sector entities,>150k,0.0
+40,MALES,Public sector entities,<10k,0.0
+41,MALES,Public sector entities,10-20k,0.0
+42,MALES,Public sector entities,20-30k,0.0
+43,MALES,Public sector entities,30-50k,0.0
+44,MALES,Public sector entities,50-70k,0.06607929515418502
+45,MALES,Public sector entities,70-90k,0.0
+46,MALES,Public sector entities,90-110k,0.0
+47,MALES,Public sector entities,110-130k,0.0
+48,MALES,Public sector entities,130-150k,0.0
+49,MALES,Public sector entities,>150k,0.0
+50,MALES,Unincorporated Private sector entities,<10k,0.0
+51,MALES,Unincorporated Private sector entities,10-20k,0.11191525068177051
+52,MALES,Unincorporated Private sector entities,20-30k,0.0
+53,MALES,Unincorporated Private sector entities,30-50k,0.0
+54,MALES,Unincorporated Private sector entities,50-70k,0.0
+55,MALES,Unincorporated Private sector entities,70-90k,0.0
+56,MALES,Unincorporated Private sector entities,90-110k,0.0
+57,MALES,Unincorporated Private sector entities,110-130k,0.0
+58,MALES,Unincorporated Private sector entities,130-150k,0.0
+59,MALES,Unincorporated Private sector entities,>150k,0.0
