@@ -1,0 +1,81 @@
+,gender,feature,median_income,PROPORTION
+0,FEMALES,200 or more employees,<10k,0.0
+1,FEMALES,200 or more employees,10-20k,0.0
+2,FEMALES,200 or more employees,20-30k,0.0
+3,FEMALES,200 or more employees,30-50k,0.24010498687664042
+4,FEMALES,200 or more employees,50-70k,0.0
+5,FEMALES,200 or more employees,70-90k,0.0
+6,FEMALES,200 or more employees,90-110k,0.0
+7,FEMALES,200 or more employees,110-130k,0.0
+8,FEMALES,200 or more employees,130-150k,0.0
+9,FEMALES,200 or more employees,>150k,0.0
+10,FEMALES,20–199 employees,<10k,0.0
+11,FEMALES,20–199 employees,10-20k,0.10750656167979003
+12,FEMALES,20–199 employees,20-30k,0.0
+13,FEMALES,20–199 employees,30-50k,0.0
+14,FEMALES,20–199 employees,50-70k,0.0
+15,FEMALES,20–199 employees,70-90k,0.0
+16,FEMALES,20–199 employees,90-110k,0.0
+17,FEMALES,20–199 employees,110-130k,0.0
+18,FEMALES,20–199 employees,130-150k,0.0
+19,FEMALES,20–199 employees,>150k,0.0
+20,FEMALES,5–19 employees,<10k,0.0
+21,FEMALES,5–19 employees,10-20k,0.07443569553805775
+22,FEMALES,5–19 employees,20-30k,0.0
+23,FEMALES,5–19 employees,30-50k,0.0
+24,FEMALES,5–19 employees,50-70k,0.0
+25,FEMALES,5–19 employees,70-90k,0.0
+26,FEMALES,5–19 employees,90-110k,0.0
+27,FEMALES,5–19 employees,110-130k,0.0
+28,FEMALES,5–19 employees,130-150k,0.0
+29,FEMALES,5–19 employees,>150k,0.0
+30,FEMALES,Fewer than 5 employees,<10k,0.0
+31,FEMALES,Fewer than 5 employees,10-20k,0.06656167979002625
+32,FEMALES,Fewer than 5 employees,20-30k,0.0
+33,FEMALES,Fewer than 5 employees,30-50k,0.0
+34,FEMALES,Fewer than 5 employees,50-70k,0.0
+35,FEMALES,Fewer than 5 employees,70-90k,0.0
+36,FEMALES,Fewer than 5 employees,90-110k,0.0
+37,FEMALES,Fewer than 5 employees,110-130k,0.0
+38,FEMALES,Fewer than 5 employees,130-150k,0.0
+39,FEMALES,Fewer than 5 employees,>150k,0.0
+40,MALES,200 or more employees,<10k,0.0
+41,MALES,200 or more employees,10-20k,0.0
+42,MALES,200 or more employees,20-30k,0.0
+43,MALES,200 or more employees,30-50k,0.0
+44,MALES,200 or more employees,50-70k,0.2094488188976378
+45,MALES,200 or more employees,70-90k,0.0
+46,MALES,200 or more employees,90-110k,0.0
+47,MALES,200 or more employees,110-130k,0.0
+48,MALES,200 or more employees,130-150k,0.0
+49,MALES,200 or more employees,>150k,0.0
+50,MALES,20–199 employees,<10k,0.0
+51,MALES,20–199 employees,10-20k,0.0
+52,MALES,20–199 employees,20-30k,0.0
+53,MALES,20–199 employees,30-50k,0.12545931758530185
+54,MALES,20–199 employees,50-70k,0.0
+55,MALES,20–199 employees,70-90k,0.0
+56,MALES,20–199 employees,90-110k,0.0
+57,MALES,20–199 employees,110-130k,0.0
+58,MALES,20–199 employees,130-150k,0.0
+59,MALES,20–199 employees,>150k,0.0
+60,MALES,5–19 employees,<10k,0.0
+61,MALES,5–19 employees,10-20k,0.0
+62,MALES,5–19 employees,20-30k,0.08
+63,MALES,5–19 employees,30-50k,0.0
+64,MALES,5–19 employees,50-70k,0.0
+65,MALES,5–19 employees,70-90k,0.0
+66,MALES,5–19 employees,90-110k,0.0
+67,MALES,5–19 employees,110-130k,0.0
+68,MALES,5–19 employees,130-150k,0.0
+69,MALES,5–19 employees,>150k,0.0
+70,MALES,Fewer than 5 employees,<10k,0.0
+71,MALES,Fewer than 5 employees,10-20k,0.0
+72,MALES,Fewer than 5 employees,20-30k,0.09648293963254594
+73,MALES,Fewer than 5 employees,30-50k,0.0
+74,MALES,Fewer than 5 employees,50-70k,0.0
+75,MALES,Fewer than 5 employees,70-90k,0.0
+76,MALES,Fewer than 5 employees,90-110k,0.0
+77,MALES,Fewer than 5 employees,110-130k,0.0
+78,MALES,Fewer than 5 employees,130-150k,0.0
+79,MALES,Fewer than 5 employees,>150k,0.0

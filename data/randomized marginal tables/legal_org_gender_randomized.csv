@@ -1,0 +1,41 @@
+,gender,feature,median_income,PROPORTION
+0,FEMALES,Households,<10k,0.0
+1,FEMALES,Households,10-20k,0.3916184971098266
+2,FEMALES,Households,20-30k,0.0
+3,FEMALES,Households,30-50k,0.0
+4,FEMALES,Households,50-70k,0.0
+5,FEMALES,Households,70-90k,0.0
+6,FEMALES,Households,90-110k,0.0
+7,FEMALES,Households,110-130k,0.0
+8,FEMALES,Households,130-150k,0.0
+9,FEMALES,Households,>150k,0.0
+10,FEMALES,Non-profit institutions serving households,<10k,0.0
+11,FEMALES,Non-profit institutions serving households,10-20k,0.0
+12,FEMALES,Non-profit institutions serving households,20-30k,0.09971098265895954
+13,FEMALES,Non-profit institutions serving households,30-50k,0.0
+14,FEMALES,Non-profit institutions serving households,50-70k,0.0
+15,FEMALES,Non-profit institutions serving households,70-90k,0.0
+16,FEMALES,Non-profit institutions serving households,90-110k,0.0
+17,FEMALES,Non-profit institutions serving households,110-130k,0.0
+18,FEMALES,Non-profit institutions serving households,130-150k,0.0
+19,FEMALES,Non-profit institutions serving households,>150k,0.0
+20,MALES,Households,<10k,0.0
+21,MALES,Households,10-20k,0.4624277456647399
+22,MALES,Households,20-30k,0.0
+23,MALES,Households,30-50k,0.0
+24,MALES,Households,50-70k,0.0
+25,MALES,Households,70-90k,0.0
+26,MALES,Households,90-110k,0.0
+27,MALES,Households,110-130k,0.0
+28,MALES,Households,130-150k,0.0
+29,MALES,Households,>150k,0.0
+30,MALES,Non-profit institutions serving households,<10k,0.0
+31,MALES,Non-profit institutions serving households,10-20k,0.0
+32,MALES,Non-profit institutions serving households,20-30k,0.046242774566473986
+33,MALES,Non-profit institutions serving households,30-50k,0.0
+34,MALES,Non-profit institutions serving households,50-70k,0.0
+35,MALES,Non-profit institutions serving households,70-90k,0.0
+36,MALES,Non-profit institutions serving households,90-110k,0.0
+37,MALES,Non-profit institutions serving households,110-130k,0.0
+38,MALES,Non-profit institutions serving households,130-150k,0.0
+39,MALES,Non-profit institutions serving households,>150k,0.0

@@ -1,0 +1,361 @@
+,gender,feature,median_income,PROPORTION
+0,FEMALES,Accommodation and food services,<10k,0.04711821623895667
+1,FEMALES,Accommodation and food services,10-20k,0.0
+2,FEMALES,Accommodation and food services,20-30k,0.0
+3,FEMALES,Accommodation and food services,30-50k,0.0
+4,FEMALES,Accommodation and food services,50-70k,0.0
+5,FEMALES,Accommodation and food services,70-90k,0.0
+6,FEMALES,Accommodation and food services,90-110k,0.0
+7,FEMALES,Accommodation and food services,110-130k,0.0
+8,FEMALES,Accommodation and food services,130-150k,0.0
+9,FEMALES,Accommodation and food services,>150k,0.0
+10,FEMALES,Administrative and support services,<10k,0.0
+11,FEMALES,Administrative and support services,10-20k,0.04564577198148927
+12,FEMALES,Administrative and support services,20-30k,0.0
+13,FEMALES,Administrative and support services,30-50k,0.0
+14,FEMALES,Administrative and support services,50-70k,0.0
+15,FEMALES,Administrative and support services,70-90k,0.0
+16,FEMALES,Administrative and support services,90-110k,0.0
+17,FEMALES,Administrative and support services,110-130k,0.0
+18,FEMALES,Administrative and support services,130-150k,0.0
+19,FEMALES,Administrative and support services,>150k,0.0
+20,FEMALES,"Agriculture, forestry and fishing",<10k,0.007572570466975179
+21,FEMALES,"Agriculture, forestry and fishing",10-20k,0.0
+22,FEMALES,"Agriculture, forestry and fishing",20-30k,0.0
+23,FEMALES,"Agriculture, forestry and fishing",30-50k,0.0
+24,FEMALES,"Agriculture, forestry and fishing",50-70k,0.0
+25,FEMALES,"Agriculture, forestry and fishing",70-90k,0.0
+26,FEMALES,"Agriculture, forestry and fishing",90-110k,0.0
+27,FEMALES,"Agriculture, forestry and fishing",110-130k,0.0
+28,FEMALES,"Agriculture, forestry and fishing",130-150k,0.0
+29,FEMALES,"Agriculture, forestry and fishing",>150k,0.0
+30,FEMALES,Arts and recreation services,<10k,0.011674379469920067
+31,FEMALES,Arts and recreation services,10-20k,0.0
+32,FEMALES,Arts and recreation services,20-30k,0.0
+33,FEMALES,Arts and recreation services,30-50k,0.0
+34,FEMALES,Arts and recreation services,50-70k,0.0
+35,FEMALES,Arts and recreation services,70-90k,0.0
+36,FEMALES,Arts and recreation services,90-110k,0.0
+37,FEMALES,Arts and recreation services,110-130k,0.0
+38,FEMALES,Arts and recreation services,130-150k,0.0
+39,FEMALES,Arts and recreation services,>150k,0.0
+40,FEMALES,Construction,<10k,0.0
+41,FEMALES,Construction,10-20k,0.0
+42,FEMALES,Construction,20-30k,0.01125368111064367
+43,FEMALES,Construction,30-50k,0.0
+44,FEMALES,Construction,50-70k,0.0
+45,FEMALES,Construction,70-90k,0.0
+46,FEMALES,Construction,90-110k,0.0
+47,FEMALES,Construction,110-130k,0.0
+48,FEMALES,Construction,130-150k,0.0
+49,FEMALES,Construction,>150k,0.0
+50,FEMALES,Education and training,<10k,0.0
+51,FEMALES,Education and training,10-20k,0.0
+52,FEMALES,Education and training,20-30k,0.0
+53,FEMALES,Education and training,30-50k,0.055952881783761045
+54,FEMALES,Education and training,50-70k,0.0
+55,FEMALES,Education and training,70-90k,0.0
+56,FEMALES,Education and training,90-110k,0.0
+57,FEMALES,Education and training,110-130k,0.0
+58,FEMALES,Education and training,130-150k,0.0
+59,FEMALES,Education and training,>150k,0.0
+60,FEMALES,"Electricity, gas, water and waste services",<10k,0.0
+61,FEMALES,"Electricity, gas, water and waste services",10-20k,0.0
+62,FEMALES,"Electricity, gas, water and waste services",20-30k,0.0
+63,FEMALES,"Electricity, gas, water and waste services",30-50k,0.0
+64,FEMALES,"Electricity, gas, water and waste services",50-70k,0.0018931426167437947
+65,FEMALES,"Electricity, gas, water and waste services",70-90k,0.0
+66,FEMALES,"Electricity, gas, water and waste services",90-110k,0.0
+67,FEMALES,"Electricity, gas, water and waste services",110-130k,0.0
+68,FEMALES,"Electricity, gas, water and waste services",130-150k,0.0
+69,FEMALES,"Electricity, gas, water and waste services",>150k,0.0
+70,FEMALES,Finance and insurance services,<10k,0.0
+71,FEMALES,Finance and insurance services,10-20k,0.0
+72,FEMALES,Finance and insurance services,20-30k,0.0
+73,FEMALES,Finance and insurance services,30-50k,0.02135044173327724
+74,FEMALES,Finance and insurance services,50-70k,0.0
+75,FEMALES,Finance and insurance services,70-90k,0.0
+76,FEMALES,Finance and insurance services,90-110k,0.0
+77,FEMALES,Finance and insurance services,110-130k,0.0
+78,FEMALES,Finance and insurance services,130-150k,0.0
+79,FEMALES,Finance and insurance services,>150k,0.0
+80,FEMALES,Health care and social assistance,<10k,0.0
+81,FEMALES,Health care and social assistance,10-20k,0.0
+82,FEMALES,Health care and social assistance,20-30k,0.0
+83,FEMALES,Health care and social assistance,30-50k,0.10149347917543122
+84,FEMALES,Health care and social assistance,50-70k,0.0
+85,FEMALES,Health care and social assistance,70-90k,0.0
+86,FEMALES,Health care and social assistance,90-110k,0.0
+87,FEMALES,Health care and social assistance,110-130k,0.0
+88,FEMALES,Health care and social assistance,130-150k,0.0
+89,FEMALES,Health care and social assistance,>150k,0.0
+90,FEMALES,Information media and telecommunications,<10k,0.0
+91,FEMALES,Information media and telecommunications,10-20k,0.0
+92,FEMALES,Information media and telecommunications,20-30k,0.0064156499789650824
+93,FEMALES,Information media and telecommunications,30-50k,0.0
+94,FEMALES,Information media and telecommunications,50-70k,0.0
+95,FEMALES,Information media and telecommunications,70-90k,0.0
+96,FEMALES,Information media and telecommunications,90-110k,0.0
+97,FEMALES,Information media and telecommunications,110-130k,0.0
+98,FEMALES,Information media and telecommunications,130-150k,0.0
+99,FEMALES,Information media and telecommunications,>150k,0.0
+100,FEMALES,Manufacturing,<10k,0.0
+101,FEMALES,Manufacturing,10-20k,0.0
+102,FEMALES,Manufacturing,20-30k,0.0
+103,FEMALES,Manufacturing,30-50k,0.016827934371055953
+104,FEMALES,Manufacturing,50-70k,0.0
+105,FEMALES,Manufacturing,70-90k,0.0
+106,FEMALES,Manufacturing,90-110k,0.0
+107,FEMALES,Manufacturing,110-130k,0.0
+108,FEMALES,Manufacturing,130-150k,0.0
+109,FEMALES,Manufacturing,>150k,0.0
+110,FEMALES,Mining,<10k,0.0
+111,FEMALES,Mining,10-20k,0.0
+112,FEMALES,Mining,20-30k,0.0
+113,FEMALES,Mining,30-50k,0.0
+114,FEMALES,Mining,50-70k,0.0
+115,FEMALES,Mining,70-90k,0.002208666386201094
+116,FEMALES,Mining,90-110k,0.0
+117,FEMALES,Mining,110-130k,0.0
+118,FEMALES,Mining,130-150k,0.0
+119,FEMALES,Mining,>150k,0.0
+120,FEMALES,"Professional, scientific and technical services",<10k,0.0
+121,FEMALES,"Professional, scientific and technical services",10-20k,0.0
+122,FEMALES,"Professional, scientific and technical services",20-30k,0.0
+123,FEMALES,"Professional, scientific and technical services",30-50k,0.03933529659234329
+124,FEMALES,"Professional, scientific and technical services",50-70k,0.0
+125,FEMALES,"Professional, scientific and technical services",70-90k,0.0
+126,FEMALES,"Professional, scientific and technical services",90-110k,0.0
+127,FEMALES,"Professional, scientific and technical services",110-130k,0.0
+128,FEMALES,"Professional, scientific and technical services",130-150k,0.0
+129,FEMALES,"Professional, scientific and technical services",>150k,0.0
+130,FEMALES,Public administration and safety,<10k,0.0
+131,FEMALES,Public administration and safety,10-20k,0.0
+132,FEMALES,Public administration and safety,20-30k,0.0
+133,FEMALES,Public administration and safety,30-50k,0.0
+134,FEMALES,Public administration and safety,50-70k,0.029448885149347917
+135,FEMALES,Public administration and safety,70-90k,0.0
+136,FEMALES,Public administration and safety,90-110k,0.0
+137,FEMALES,Public administration and safety,110-130k,0.0
+138,FEMALES,Public administration and safety,130-150k,0.0
+139,FEMALES,Public administration and safety,>150k,0.0
+140,FEMALES,"Rental, hiring and real estate services",<10k,0.0
+141,FEMALES,"Rental, hiring and real estate services",10-20k,0.0
+142,FEMALES,"Rental, hiring and real estate services",20-30k,0.010096760622633571
+143,FEMALES,"Rental, hiring and real estate services",30-50k,0.0
+144,FEMALES,"Rental, hiring and real estate services",50-70k,0.0
+145,FEMALES,"Rental, hiring and real estate services",70-90k,0.0
+146,FEMALES,"Rental, hiring and real estate services",90-110k,0.0
+147,FEMALES,"Rental, hiring and real estate services",110-130k,0.0
+148,FEMALES,"Rental, hiring and real estate services",130-150k,0.0
+149,FEMALES,"Rental, hiring and real estate services",>150k,0.0
+150,FEMALES,Retail trade,<10k,0.0
+151,FEMALES,Retail trade,10-20k,0.054690786705931846
+152,FEMALES,Retail trade,20-30k,0.0
+153,FEMALES,Retail trade,30-50k,0.0
+154,FEMALES,Retail trade,50-70k,0.0
+155,FEMALES,Retail trade,70-90k,0.0
+156,FEMALES,Retail trade,90-110k,0.0
+157,FEMALES,Retail trade,110-130k,0.0
+158,FEMALES,Retail trade,130-150k,0.0
+159,FEMALES,Retail trade,>150k,0.0
+160,FEMALES,"Transport, postal and warehousing",<10k,0.0
+161,FEMALES,"Transport, postal and warehousing",10-20k,0.0
+162,FEMALES,"Transport, postal and warehousing",20-30k,0.0
+163,FEMALES,"Transport, postal and warehousing",30-50k,0.009465713083718973
+164,FEMALES,"Transport, postal and warehousing",50-70k,0.0
+165,FEMALES,"Transport, postal and warehousing",70-90k,0.0
+166,FEMALES,"Transport, postal and warehousing",90-110k,0.0
+167,FEMALES,"Transport, postal and warehousing",110-130k,0.0
+168,FEMALES,"Transport, postal and warehousing",130-150k,0.0
+169,FEMALES,"Transport, postal and warehousing",>150k,0.0
+170,FEMALES,Wholesale trade,<10k,0.0
+171,FEMALES,Wholesale trade,10-20k,0.0
+172,FEMALES,Wholesale trade,20-30k,0.0
+173,FEMALES,Wholesale trade,30-50k,0.013672696676482961
+174,FEMALES,Wholesale trade,50-70k,0.0
+175,FEMALES,Wholesale trade,70-90k,0.0
+176,FEMALES,Wholesale trade,90-110k,0.0
+177,FEMALES,Wholesale trade,110-130k,0.0
+178,FEMALES,Wholesale trade,130-150k,0.0
+179,FEMALES,Wholesale trade,>150k,0.0
+180,MALES,Accommodation and food services,<10k,0.037968026924694996
+181,MALES,Accommodation and food services,10-20k,0.0
+182,MALES,Accommodation and food services,20-30k,0.0
+183,MALES,Accommodation and food services,30-50k,0.0
+184,MALES,Accommodation and food services,50-70k,0.0
+185,MALES,Accommodation and food services,70-90k,0.0
+186,MALES,Accommodation and food services,90-110k,0.0
+187,MALES,Accommodation and food services,110-130k,0.0
+188,MALES,Accommodation and food services,130-150k,0.0
+189,MALES,Accommodation and food services,>150k,0.0
+190,MALES,Administrative and support services,<10k,0.0
+191,MALES,Administrative and support services,10-20k,0.05647875473285654
+192,MALES,Administrative and support services,20-30k,0.0
+193,MALES,Administrative and support services,30-50k,0.0
+194,MALES,Administrative and support services,50-70k,0.0
+195,MALES,Administrative and support services,70-90k,0.0
+196,MALES,Administrative and support services,90-110k,0.0
+197,MALES,Administrative and support services,110-130k,0.0
+198,MALES,Administrative and support services,130-150k,0.0
+199,MALES,Administrative and support services,>150k,0.0
+200,MALES,"Agriculture, forestry and fishing",<10k,0.016091712242322254
+201,MALES,"Agriculture, forestry and fishing",10-20k,0.0
+202,MALES,"Agriculture, forestry and fishing",20-30k,0.0
+203,MALES,"Agriculture, forestry and fishing",30-50k,0.0
+204,MALES,"Agriculture, forestry and fishing",50-70k,0.0
+205,MALES,"Agriculture, forestry and fishing",70-90k,0.0
+206,MALES,"Agriculture, forestry and fishing",90-110k,0.0
+207,MALES,"Agriculture, forestry and fishing",110-130k,0.0
+208,MALES,"Agriculture, forestry and fishing",130-150k,0.0
+209,MALES,"Agriculture, forestry and fishing",>150k,0.0
+210,MALES,Arts and recreation services,<10k,0.0
+211,MALES,Arts and recreation services,10-20k,0.010201935212452672
+212,MALES,Arts and recreation services,20-30k,0.0
+213,MALES,Arts and recreation services,30-50k,0.0
+214,MALES,Arts and recreation services,50-70k,0.0
+215,MALES,Arts and recreation services,70-90k,0.0
+216,MALES,Arts and recreation services,90-110k,0.0
+217,MALES,Arts and recreation services,110-130k,0.0
+218,MALES,Arts and recreation services,130-150k,0.0
+219,MALES,Arts and recreation services,>150k,0.0
+220,MALES,Construction,<10k,0.0
+221,MALES,Construction,10-20k,0.0
+222,MALES,Construction,20-30k,0.0
+223,MALES,Construction,30-50k,0.06668068994530921
+224,MALES,Construction,50-70k,0.0
+225,MALES,Construction,70-90k,0.0
+226,MALES,Construction,90-110k,0.0
+227,MALES,Construction,110-130k,0.0
+228,MALES,Construction,130-150k,0.0
+229,MALES,Construction,>150k,0.0
+230,MALES,Education and training,<10k,0.0
+231,MALES,Education and training,10-20k,0.0
+232,MALES,Education and training,20-30k,0.0
+233,MALES,Education and training,30-50k,0.024610854017669333
+234,MALES,Education and training,50-70k,0.0
+235,MALES,Education and training,70-90k,0.0
+236,MALES,Education and training,90-110k,0.0
+237,MALES,Education and training,110-130k,0.0
+238,MALES,Education and training,130-150k,0.0
+239,MALES,Education and training,>150k,0.0
+240,MALES,"Electricity, gas, water and waste services",<10k,0.0
+241,MALES,"Electricity, gas, water and waste services",10-20k,0.0
+242,MALES,"Electricity, gas, water and waste services",20-30k,0.0
+243,MALES,"Electricity, gas, water and waste services",30-50k,0.0
+244,MALES,"Electricity, gas, water and waste services",50-70k,0.0
+245,MALES,"Electricity, gas, water and waste services",70-90k,0.005679427850231384
+246,MALES,"Electricity, gas, water and waste services",90-110k,0.0
+247,MALES,"Electricity, gas, water and waste services",110-130k,0.0
+248,MALES,"Electricity, gas, water and waste services",130-150k,0.0
+249,MALES,"Electricity, gas, water and waste services",>150k,0.0
+250,MALES,Finance and insurance services,<10k,0.0
+251,MALES,Finance and insurance services,10-20k,0.0
+252,MALES,Finance and insurance services,20-30k,0.0
+253,MALES,Finance and insurance services,30-50k,0.02114009255363904
+254,MALES,Finance and insurance services,50-70k,0.0
+255,MALES,Finance and insurance services,70-90k,0.0
+256,MALES,Finance and insurance services,90-110k,0.0
+257,MALES,Finance and insurance services,110-130k,0.0
+258,MALES,Finance and insurance services,130-150k,0.0
+259,MALES,Finance and insurance services,>150k,0.0
+260,MALES,Health care and social assistance,<10k,0.0
+261,MALES,Health care and social assistance,10-20k,0.0
+262,MALES,Health care and social assistance,20-30k,0.0
+263,MALES,Health care and social assistance,30-50k,0.028081615481699622
+264,MALES,Health care and social assistance,50-70k,0.0
+265,MALES,Health care and social assistance,70-90k,0.0
+266,MALES,Health care and social assistance,90-110k,0.0
+267,MALES,Health care and social assistance,110-130k,0.0
+268,MALES,Health care and social assistance,130-150k,0.0
+269,MALES,Health care and social assistance,>150k,0.0
+270,MALES,Information media and telecommunications,<10k,0.0
+271,MALES,Information media and telecommunications,10-20k,0.0
+272,MALES,Information media and telecommunications,20-30k,0.0
+273,MALES,Information media and telecommunications,30-50k,0.008834665544804375
+274,MALES,Information media and telecommunications,50-70k,0.0
+275,MALES,Information media and telecommunications,70-90k,0.0
+276,MALES,Information media and telecommunications,90-110k,0.0
+277,MALES,Information media and telecommunications,110-130k,0.0
+278,MALES,Information media and telecommunications,130-150k,0.0
+279,MALES,Information media and telecommunications,>150k,0.0
+280,MALES,Manufacturing,<10k,0.0
+281,MALES,Manufacturing,10-20k,0.0
+282,MALES,Manufacturing,20-30k,0.0
+283,MALES,Manufacturing,30-50k,0.0
+284,MALES,Manufacturing,50-70k,0.04028186790071519
+285,MALES,Manufacturing,70-90k,0.0
+286,MALES,Manufacturing,90-110k,0.0
+287,MALES,Manufacturing,110-130k,0.0
+288,MALES,Manufacturing,130-150k,0.0
+289,MALES,Manufacturing,>150k,0.0
+290,MALES,Mining,<10k,0.0
+291,MALES,Mining,10-20k,0.0
+292,MALES,Mining,20-30k,0.0
+293,MALES,Mining,30-50k,0.0
+294,MALES,Mining,50-70k,0.0
+295,MALES,Mining,70-90k,0.0
+296,MALES,Mining,90-110k,0.0
+297,MALES,Mining,110-130k,0.010307109802271772
+298,MALES,Mining,130-150k,0.0
+299,MALES,Mining,>150k,0.0
+300,MALES,"Professional, scientific and technical services",<10k,0.0
+301,MALES,"Professional, scientific and technical services",10-20k,0.0
+302,MALES,"Professional, scientific and technical services",20-30k,0.0
+303,MALES,"Professional, scientific and technical services",30-50k,0.0
+304,MALES,"Professional, scientific and technical services",50-70k,0.04659234328986117
+305,MALES,"Professional, scientific and technical services",70-90k,0.0
+306,MALES,"Professional, scientific and technical services",90-110k,0.0
+307,MALES,"Professional, scientific and technical services",110-130k,0.0
+308,MALES,"Professional, scientific and technical services",130-150k,0.0
+309,MALES,"Professional, scientific and technical services",>150k,0.0
+310,MALES,Public administration and safety,<10k,0.0
+311,MALES,Public administration and safety,10-20k,0.0
+312,MALES,Public administration and safety,20-30k,0.0
+313,MALES,Public administration and safety,30-50k,0.0
+314,MALES,Public administration and safety,50-70k,0.0
+315,MALES,Public administration and safety,70-90k,0.03176272612536811
+316,MALES,Public administration and safety,90-110k,0.0
+317,MALES,Public administration and safety,110-130k,0.0
+318,MALES,Public administration and safety,130-150k,0.0
+319,MALES,Public administration and safety,>150k,0.0
+320,MALES,"Rental, hiring and real estate services",<10k,0.0
+321,MALES,"Rental, hiring and real estate services",10-20k,0.0
+322,MALES,"Rental, hiring and real estate services",20-30k,0.0
+323,MALES,"Rental, hiring and real estate services",30-50k,0.010307109802271772
+324,MALES,"Rental, hiring and real estate services",50-70k,0.0
+325,MALES,"Rental, hiring and real estate services",70-90k,0.0
+326,MALES,"Rental, hiring and real estate services",90-110k,0.0
+327,MALES,"Rental, hiring and real estate services",110-130k,0.0
+328,MALES,"Rental, hiring and real estate services",130-150k,0.0
+329,MALES,"Rental, hiring and real estate services",>150k,0.0
+330,MALES,Retail trade,<10k,0.0
+331,MALES,Retail trade,10-20k,0.0
+332,MALES,Retail trade,20-30k,0.041649137568363484
+333,MALES,Retail trade,30-50k,0.0
+334,MALES,Retail trade,50-70k,0.0
+335,MALES,Retail trade,70-90k,0.0
+336,MALES,Retail trade,90-110k,0.0
+337,MALES,Retail trade,110-130k,0.0
+338,MALES,Retail trade,130-150k,0.0
+339,MALES,Retail trade,>150k,0.0
+340,MALES,"Transport, postal and warehousing",<10k,0.0
+341,MALES,"Transport, postal and warehousing",10-20k,0.0
+342,MALES,"Transport, postal and warehousing",20-30k,0.0
+343,MALES,"Transport, postal and warehousing",30-50k,0.03281447202355911
+344,MALES,"Transport, postal and warehousing",50-70k,0.0
+345,MALES,"Transport, postal and warehousing",70-90k,0.0
+346,MALES,"Transport, postal and warehousing",90-110k,0.0
+347,MALES,"Transport, postal and warehousing",110-130k,0.0
+348,MALES,"Transport, postal and warehousing",130-150k,0.0
+349,MALES,"Transport, postal and warehousing",>150k,0.0
+350,MALES,Wholesale trade,<10k,0.0
+351,MALES,Wholesale trade,10-20k,0.0
+352,MALES,Wholesale trade,20-30k,0.0
+353,MALES,Wholesale trade,30-50k,0.0
+354,MALES,Wholesale trade,50-70k,0.02440050483803113
+355,MALES,Wholesale trade,70-90k,0.0
+356,MALES,Wholesale trade,90-110k,0.0
+357,MALES,Wholesale trade,110-130k,0.0
+358,MALES,Wholesale trade,130-150k,0.0
+359,MALES,Wholesale trade,>150k,0.0
