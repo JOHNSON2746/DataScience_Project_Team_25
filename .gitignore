@@ -1,0 +1,65 @@
+# ========================
+# Python cache and logs
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# ========================
+# Jupyter Notebook checkpoints
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# VS Code settings
+# ========================
+.vscode/
+*.code-workspace
+
+# ========================
+# Virtual environments
+# ========================
+venv/
+env/
+ENV/
+.venv/
+
+# ========================
+# OS-specific files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Excel and temporary data files
+# ========================
+*.tmp
+*.bak
+
+# ========================
+# Project artifacts
+# ========================
+*.docx
+*.pptx
+
+# ========================
+# Python dependency files
+# ========================
+*.egg-info/
+dist/
+build/
+
+# ========================
+# R language artifacts
+# ========================
+*.Rhistory
+*.RData
+*.Rproj.user/
+
+# ========================
+# Miscellaneous
+# ========================
+*.swp
+*.swo

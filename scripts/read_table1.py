@@ -1,40 +1,22 @@
-import argparse
-from code.reader.abs_excel_reader import process_excel_file
-import pandas as pd
+import sys
+import os
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(script_dir)
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+    
+from code.reader.abs_excel_reader import extract_feature_tables
 
 def main():
-    # 解析命令行参数
-    parser = argparse.ArgumentParser(description='处理包含合并单元格的Excel数据')
-    parser.add_argument('input_file', help='Excel文件路径')
-    parser.add_argument('-s', '--sheet', default=0, help='工作表名称或索引')
-    parser.add_argument('-o', '--output', help='输出文件路径（CSV格式）')
-    args = parser.parse_args()
-    
-    try:
-        # # 初始化读取器并读取数据
-        # reader = process_excel_file()
-        # print(f"正在读取文件: {args.input_file}")
-        # df = reader.read(
-        #     file_path=args.input_file,
-        #     sheet_name=args.sheet
-        # )
-        
-        # # 转换数据格式
-        # transformer = DataTransformer()
-        # processed_df = transformer.to_long_format(df)
-        
-        # # 显示处理结果预览
-        print("\n处理后的数据预览:")
-        # print(processed_df.head())
-        
-        # # 保存结果（如果指定了输出路径）
-        # if args.output:
-        #     processed_df.to_csv(args.output, index=False)
-        #     print(f"\n数据已保存至: {args.output}")
-            
-    except Exception as e:
-        print(f"处理失败: {str(e)}")
-        exit(1)
+    file_path = 'abs_raw_data/Table 1 - Jobs and employment income by sex, age, business characteristics and geography, 2017-18 to 2021-22.xlsx'
+    # To do: Modularize later
+    feature_rows = "code/reader/feature_rows.json"
+    table_name = "Table 1.1"
+    tables = extract_feature_tables(file_path, feature_rows, table_name)
+    for feature, df in tables.items():
+        filename = f"{feature}_gender.csv"
+        df.to_csv(f"data/transformed/{filename}", index=False)
+        print(f"{feature} 已保存为 {filename}")
 
 if __name__ == "__main__":
     main()
