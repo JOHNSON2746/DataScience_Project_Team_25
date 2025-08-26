@@ -1,0 +1,281 @@
+feature,gender,median_income,number_of_jobs,PROPORTION
+Australian Citizen,Females,<10k,73.288,0.0002440772793799899
+Australian Citizen,Females,10k-20k,293.716,0.0009781874548408077
+Australian Citizen,Females,20k-30k,240.982,0.0008025629153415119
+Australian Citizen,Females,30k-50k,112.53999999999999,0.0003748015639862469
+Australian Citizen,Females,50k-70k,25.774,8.583735125450088e-05
+Australian Citizen,Females,70k-90k,2.07,6.893897613750942e-06
+Australian Citizen,Females,90k-110k,0.336,1.1190094677392835e-06
+Australian Citizen,Females,110k-130k,0.22,7.326847705435784e-07
+Australian Citizen,Females,130-150k,0.077,2.5643966969025245e-07
+Australian Citizen,Females,>150k,0.027,8.9920403657621e-08
+Australian Citizen,Males,<10k,39.465,0.00013143365667955603
+Australian Citizen,Males,10k-20k,71.93,0.00023955461611454366
+Australian Citizen,Males,20k-30k,235.134,0.0007830868219863353
+Australian Citizen,Males,30k-50k,206.892,0.0006890300797604638
+Australian Citizen,Males,50k-70k,88.788,0.00029569825185010566
+Australian Citizen,Males,70k-90k,19.628,6.536880307376981e-05
+Australian Citizen,Males,90k-110k,3.6959999999999997,1.2309104145132117e-05
+Australian Citizen,Males,110k-130k,0.732,2.4378420547177245e-06
+Australian Citizen,Males,130-150k,0.562,1.871676550206778e-06
+Australian Citizen,Males,>150k,0.255,8.492482567664205e-07
+Bridging visas,Females,<10k,724.4879999999999,0.002412824200188982
+Bridging visas,Females,10k-20k,2145.288,0.0071446356637722384
+Bridging visas,Females,20k-30k,241.041,0.0008027594080754304
+Bridging visas,Females,30k-50k,4.61,1.5353076328208623e-05
+Bridging visas,Females,50k-70k,0.632,2.104803522652462e-06
+Bridging visas,Females,70k-90k,0.0,0.0
+Bridging visas,Females,90k-110k,0.006,1.998231192391578e-08
+Bridging visas,Females,110k-130k,0.0,0.0
+Bridging visas,Females,130-150k,0.0,0.0
+Bridging visas,Females,>150k,0.0,0.0
+Bridging visas,Males,<10k,261.973,0.0008724710336073313
+Bridging visas,Males,10k-20k,3094.127,0.010304635141034958
+Bridging visas,Males,20k-30k,588.607,0.001960288112433382
+Bridging visas,Males,30k-50k,64.397,0.0002144668234940674
+Bridging visas,Males,50k-70k,4.374,1.45671053925346e-05
+Bridging visas,Males,70k-90k,1.519,5.058855302071344e-06
+Bridging visas,Males,90k-110k,0.9179999999999999,3.0572937243591136e-06
+Bridging visas,Males,110k-130k,0.11699999999999999,3.896550825163576e-07
+Bridging visas,Males,130-150k,0.0,0.0
+Bridging visas,Males,>150k,0.0,0.0
+NZ Citizen (subclass 444),Females,<10k,144.234,0.0004803547963390114
+NZ Citizen (subclass 444),Females,10k-20k,821.074,0.002734492796769537
+NZ Citizen (subclass 444),Females,20k-30k,3483.788,0.011602356415465783
+NZ Citizen (subclass 444),Females,30k-50k,1619.365,0.0053931094247786455
+NZ Citizen (subclass 444),Females,50k-70k,159.184,0.0005301440568827681
+NZ Citizen (subclass 444),Females,70k-90k,29.188,9.720728673920895e-05
+NZ Citizen (subclass 444),Females,90k-110k,0.163,5.428528072663787e-07
+NZ Citizen (subclass 444),Females,110k-130k,0.0,0.0
+NZ Citizen (subclass 444),Females,130-150k,0.0,0.0
+NZ Citizen (subclass 444),Females,>150k,0.0,0.0
+NZ Citizen (subclass 444),Males,<10k,41.957,0.00013973297689862238
+NZ Citizen (subclass 444),Males,10k-20k,913.254,0.0030414877156272964
+NZ Citizen (subclass 444),Males,20k-30k,353.75399999999996,0.0011781371287221502
+NZ Citizen (subclass 444),Males,30k-50k,5270.013,0.017551173934848525
+NZ Citizen (subclass 444),Males,50k-70k,931.974,0.003103832528829914
+NZ Citizen (subclass 444),Males,70k-90k,33.512,0.00011160787286571092
+NZ Citizen (subclass 444),Males,90k-110k,59.378,0.00019775161956971183
+NZ Citizen (subclass 444),Males,110k-130k,58.187,0.00019378513065281455
+NZ Citizen (subclass 444),Males,130-150k,0.0,0.0
+NZ Citizen (subclass 444),Males,>150k,0.0,0.0
+Permanent,Females,<10k,661.224,0.002202130703263214
+Permanent,Females,10k-20k,7801.901,0.02598333656358507
+Permanent,Females,20k-30k,21422.537,0.07134530275593783
+Permanent,Females,30k-50k,14091.279,0.04692938873082066
+Permanent,Females,50k-70k,1235.611,0.004115060736436916
+Permanent,Females,70k-90k,138.828,0.00046235073329556326
+Permanent,Females,90k-110k,31.64,0.0001053733915454492
+Permanent,Females,110k-130k,0.0,0.0
+Permanent,Females,130-150k,0.0,0.0
+Permanent,Females,>150k,0.0,0.0
+Permanent,Males,<10k,210.555,0.0007012292811900145
+Permanent,Males,10k-20k,4078.63,0.013583409480373435
+Permanent,Males,20k-30k,5991.354,0.019953517412433414
+Permanent,Males,30k-50k,26771.376,0.0891589976440721
+Permanent,Males,50k-70k,7678.602,0.02557270338393392
+Permanent,Males,70k-90k,1885.013,0.006277819624439375
+Permanent,Males,90k-110k,189.33,0.0006305418527591624
+Permanent,Males,110k-130k,266.932,0.0008889864144124477
+Permanent,Males,130-150k,50.818999999999996,0.00016924685161024596
+Permanent,Males,>150k,0.0,0.0
+Permanent Family,Females,<10k,78.082,0.0002600431466071986
+Permanent Family,Females,10k-20k,3092.345,0.010298700394393555
+Permanent Family,Females,20k-30k,9814.523,0.0326861433284076
+Permanent Family,Females,30k-50k,2386.111,0.007946669047847766
+Permanent Family,Females,50k-70k,119.757,0.00039883695484539694
+Permanent Family,Females,70k-90k,20.22,6.734039118359617e-05
+Permanent Family,Females,90k-110k,0.0,0.0
+Permanent Family,Females,110k-130k,0.0,0.0
+Permanent Family,Females,130-150k,0.0,0.0
+Permanent Family,Females,>150k,0.0,0.0
+Permanent Family,Males,<10k,57.845,0.00019264613887315135
+Permanent Family,Males,10k-20k,1304.48,0.004344421043084942
+Permanent Family,Males,20k-30k,1237.123,0.004120096279041743
+Permanent Family,Males,30k-50k,6478.377,0.021575491662453622
+Permanent Family,Males,50k-70k,936.827,0.003119994888791041
+Permanent Family,Males,70k-90k,28.039,9.338067400577908e-05
+Permanent Family,Males,90k-110k,40.073,0.00013345853095451281
+Permanent Family,Males,110k-130k,0.566,1.884998091489388e-06
+Permanent Family,Males,130-150k,0.0,0.0
+Permanent Family,Males,>150k,0.0,0.0
+Permanent Humanitarian,Females,<10k,359.661,0.0011978097148112453
+Permanent Humanitarian,Females,10k-20k,1428.153,0.004756299786846015
+Permanent Humanitarian,Females,20k-30k,370.978,0.0012354996854850712
+Permanent Humanitarian,Females,30k-50k,34.106,0.00011358612174617859
+Permanent Humanitarian,Females,50k-70k,1.047,3.486913430723303e-06
+Permanent Humanitarian,Females,70k-90k,0.184,6.127908990000838e-07
+Permanent Humanitarian,Females,90k-110k,0.051000000000000004,1.698496513532841e-07
+Permanent Humanitarian,Females,110k-130k,0.0,0.0
+Permanent Humanitarian,Females,130-150k,0.0,0.0
+Permanent Humanitarian,Females,>150k,0.0,0.0
+Permanent Humanitarian,Males,<10k,410.817,0.0013681789062745513
+Permanent Humanitarian,Males,10k-20k,1529.2,0.005092825232342001
+Permanent Humanitarian,Males,20k-30k,1363.427,0.004540737266581453
+Permanent Humanitarian,Males,30k-50k,427.525,0.0014238229842120154
+Permanent Humanitarian,Males,50k-70k,7.6370000000000005,2.543415269382413e-05
+Permanent Humanitarian,Males,70k-90k,1.4449999999999998,4.812406788343049e-06
+Permanent Humanitarian,Males,90k-110k,0.0,0.0
+Permanent Humanitarian,Males,110k-130k,0.0,0.0
+Permanent Humanitarian,Males,130-150k,0.0,0.0
+Permanent Humanitarian,Males,>150k,0.0,0.0
+Permanent Other,Females,<10k,2.129,7.090390347669448e-06
+Permanent Other,Females,10k-20k,180.909,0.0006024966779739465
+Permanent Other,Females,20k-30k,302.958,0.0010089668759742795
+Permanent Other,Females,30k-50k,2525.968,0.00841244674763828
+Permanent Other,Females,50k-70k,106.54599999999999,0.00035483923437425505
+Permanent Other,Females,70k-90k,12.185,4.058074513215229e-05
+Permanent Other,Females,90k-110k,0.871,2.9007656142884404e-06
+Permanent Other,Females,110k-130k,0.022,7.326847705435784e-08
+Permanent Other,Females,130-150k,0.0,0.0
+Permanent Other,Females,>150k,0.0,0.0
+Permanent Other,Males,<10k,1.249,4.159651265495135e-06
+Permanent Other,Males,10k-20k,35.769,0.0001191245525344239
+Permanent Other,Males,20k-30k,216.01,0.0007193965331141744
+Permanent Other,Males,30k-50k,1637.801,0.0054545084085501966
+Permanent Other,Males,50k-70k,1151.538,0.003835065251373688
+Permanent Other,Males,70k-90k,98.462,0.0003279163994420992
+Permanent Other,Males,90k-110k,16.039,5.341605015794753e-05
+Permanent Other,Males,110k-130k,14.326,4.771110010366957e-05
+Permanent Other,Males,130-150k,11.786,3.925192138921189e-05
+Permanent Other,Males,>150k,0.009,2.997346788587366e-08
+Permanent Skilled,Females,<10k,516.634,0.0017205902897500507
+Permanent Skilled,Females,10k-20k,2668.609,0.008887496240161493
+Permanent Skilled,Females,20k-30k,7935.996,0.026429924583157984
+Permanent Skilled,Females,30k-50k,11388.582,0.03792836631584876
+Permanent Skilled,Females,50k-70k,1838.788,0.006123872562992207
+Permanent Skilled,Females,70k-90k,154.887,0.0005158333911599238
+Permanent Skilled,Females,90k-110k,39.658,0.00013207642104644198
+Permanent Skilled,Females,110k-130k,2.649,8.822190714408815e-06
+Permanent Skilled,Females,130-150k,0.0,0.0
+Permanent Skilled,Females,>150k,0.004,1.3321541282610517e-08
+Permanent Skilled,Males,<10k,152.857,0.000509072708958999
+Permanent Skilled,Males,10k-20k,1964.578,0.0065428017324771015
+Permanent Skilled,Males,20k-30k,3952.013,0.01316172608222836
+Permanent Skilled,Males,30k-50k,12220.666,0.04069952665499869
+Permanent Skilled,Males,50k-70k,8363.228,0.027852771764471047
+Permanent Skilled,Males,70k-90k,2875.043,0.009575001003445098
+Permanent Skilled,Males,90k-110k,286.743,0.0009549646779998969
+Permanent Skilled,Males,110k-130k,205.63400000000001,0.0006848404550270829
+Permanent Skilled,Males,130-150k,92.82900000000001,0.00030915633893086297
+Permanent Skilled,Males,>150k,0.0,0.0
+Provisional,Females,<10k,410.278,0.0013663838285867195
+Provisional,Females,10k-20k,1432.114,0.00476949144310112
+Provisional,Females,20k-30k,172.33,0.0005739253023080677
+Provisional,Females,30k-50k,0.702,2.3379304950981456e-06
+Provisional,Females,50k-70k,0.132,4.3961086232614713e-07
+Provisional,Females,70k-90k,0.0,0.0
+Provisional,Females,90k-110k,0.0,0.0
+Provisional,Females,110k-130k,0.0,0.0
+Provisional,Females,130-150k,0.0,0.0
+Provisional,Females,>150k,0.0,0.0
+Provisional,Males,<10k,450.06,0.0014988732174129225
+Provisional,Males,10k-20k,2180.2019999999998,0.007260912736857503
+Provisional,Males,20k-30k,201.544,0.0006712191790656136
+Provisional,Males,30k-50k,4.908,1.6345531153763107e-05
+Provisional,Males,50k-70k,0.076,2.5310928436959983e-07
+Provisional,Males,70k-90k,0.0,0.0
+Provisional,Males,90k-110k,0.0,0.0
+Provisional,Males,110k-130k,0.0,0.0
+Provisional,Males,130-150k,0.0,0.0
+Provisional,Males,>150k,0.0,0.0
+Temporary,Females,<10k,6478.743,0.02157671058348098
+Temporary,Females,10k-20k,17923.411,0.059691864890423864
+Temporary,Females,20k-30k,3330.679,0.01109244444940598
+Temporary,Females,30k-50k,487.18,0.001622497120515548
+Temporary,Females,50k-70k,31.153,0.00010375149389429137
+Temporary,Females,70k-90k,37.023,0.00012330085572652232
+Temporary,Females,90k-110k,0.0,0.0
+Temporary,Females,110k-130k,0.0,0.0
+Temporary,Females,130-150k,0.0,0.0
+Temporary,Females,>150k,0.0,0.0
+Temporary,Males,<10k,6047.611,0.02014087489941737
+Temporary,Males,10k-20k,22462.972,0.07481035220703104
+Temporary,Males,20k-30k,3754.501,0.012503935016775618
+Temporary,Males,30k-50k,2606.946,0.00868213469013409
+Temporary,Males,50k-70k,69.17,0.0002303627526295424
+Temporary,Males,70k-90k,3.702,1.2329086457056034e-05
+Temporary,Males,90k-110k,176.35,0.0005873134512970912
+Temporary,Males,110k-130k,50.089999999999996,0.00016681900071149018
+Temporary,Males,130-150k,0.0,0.0
+Temporary,Males,>150k,0.0,0.0
+Temporary Other,Females,<10k,84.151,0.0002802552551182394
+Temporary Other,Females,10k-20k,451.298,0.0015029962344398904
+Temporary Other,Females,20k-30k,74.486,0.0002480670809941318
+Temporary Other,Females,30k-50k,13.727,4.571619929659865e-05
+Temporary Other,Females,50k-70k,0.539,1.7950776878317673e-06
+Temporary Other,Females,70k-90k,0.08,2.6643082565221035e-07
+Temporary Other,Females,90k-110k,0.018000000000000002,5.994693577174734e-08
+Temporary Other,Females,110k-130k,0.0,0.0
+Temporary Other,Females,130-150k,0.0,0.0
+Temporary Other,Females,>150k,0.0,0.0
+Temporary Other,Males,<10k,13.554,4.514004263612574e-05
+Temporary Other,Males,10k-20k,605.255,0.0020157323672516073
+Temporary Other,Males,20k-30k,519.386,0.0017297555101524866
+Temporary Other,Males,30k-50k,113.961,0.0003795340415268943
+Temporary Other,Males,50k-70k,3.203,1.0667224182050371e-05
+Temporary Other,Males,70k-90k,0.148,4.928970274565892e-07
+Temporary Other,Males,90k-110k,0.086,2.864131375761261e-07
+Temporary Other,Males,110k-130k,0.004,1.3321541282610517e-08
+Temporary Other,Males,130-150k,0.019,6.327732109239996e-08
+Temporary Other,Males,>150k,0.0,0.0
+Temporary Skilled,Females,<10k,13.841,4.6095863223153045e-05
+Temporary Skilled,Females,10k-20k,202.71200000000002,0.0006751090691201358
+Temporary Skilled,Females,20k-30k,107.02,0.0003564178370162444
+Temporary Skilled,Females,30k-50k,475.753,0.0015844408074564503
+Temporary Skilled,Females,50k-70k,290.252,0.0009666510000900671
+Temporary Skilled,Females,70k-90k,60.792,0.00020246078441311466
+Temporary Skilled,Females,90k-110k,4.337,1.4443881135670453e-05
+Temporary Skilled,Females,110k-130k,1.437,4.785763705777829e-06
+Temporary Skilled,Females,130-150k,1.6560000000000001,5.515118091000755e-06
+Temporary Skilled,Females,>150k,0.9630000000000001,3.2071610637884825e-06
+Temporary Skilled,Males,<10k,2.418,8.052871705338058e-06
+Temporary Skilled,Males,10k-20k,35.078,0.00011682325627785295
+Temporary Skilled,Males,20k-30k,35.883,0.0001195042164609783
+Temporary Skilled,Males,30k-50k,134.002,0.0004462782937380937
+Temporary Skilled,Males,50k-70k,1027.397,0.003421627887282549
+Temporary Skilled,Males,70k-90k,492.281,0.001639485416036197
+Temporary Skilled,Males,90k-110k,40.871,0.00013611617844039363
+Temporary Skilled,Males,110k-130k,7.329,2.440839401506312e-05
+Temporary Skilled,Males,130-150k,5.598,1.864349702501342e-05
+Temporary Skilled,Males,>150k,22.075,7.35182559534068e-05
+Temporary Student,Females,<10k,6036.22,0.020102938480229815
+Temporary Student,Females,10k-20k,519.846,0.0017312874873999869
+Temporary Student,Females,20k-30k,0.511,1.7018268988534936e-06
+Temporary Student,Females,30k-50k,0.045,1.4986733942936832e-07
+Temporary Student,Females,50k-70k,0.0,0.0
+Temporary Student,Females,70k-90k,0.0,0.0
+Temporary Student,Females,90k-110k,0.0,0.0
+Temporary Student,Females,110k-130k,0.0,0.0
+Temporary Student,Females,130-150k,0.0,0.0
+Temporary Student,Females,>150k,0.0,0.0
+Temporary Student,Males,<10k,6586.035,0.02193403428530444
+Temporary Student,Males,10k-20k,1231.59,0.004101669257062571
+Temporary Student,Males,20k-30k,27.679,9.218173529034412e-05
+Temporary Student,Males,30k-50k,0.031,1.0324194494023151e-07
+Temporary Student,Males,50k-70k,0.0,0.0
+Temporary Student,Males,70k-90k,0.0,0.0
+Temporary Student,Males,90k-110k,0.0,0.0
+Temporary Student,Males,110k-130k,0.0,0.0
+Temporary Student,Males,130-150k,0.0,0.0
+Temporary Student,Males,>150k,0.0,0.0
+Temporary Working Holiday Maker,Females,<10k,2562.358,0.00853363946945683
+Temporary Working Holiday Maker,Females,10k-20k,11.718,3.9025455187407515e-05
+Temporary Working Holiday Maker,Females,20k-30k,0.357,1.1889475594729887e-06
+Temporary Working Holiday Maker,Females,30k-50k,0.06,1.9982311923915775e-07
+Temporary Working Holiday Maker,Females,50k-70k,0.0,0.0
+Temporary Working Holiday Maker,Females,70k-90k,0.0,0.0
+Temporary Working Holiday Maker,Females,90k-110k,0.0,0.0
+Temporary Working Holiday Maker,Females,110k-130k,0.0,0.0
+Temporary Working Holiday Maker,Females,130-150k,0.0,0.0
+Temporary Working Holiday Maker,Females,>150k,0.0,0.0
+Temporary Working Holiday Maker,Males,<10k,2566.067,0.00854599186861113
+Temporary Working Holiday Maker,Males,10k-20k,23.967,7.981934498008156e-05
+Temporary Working Holiday Maker,Males,20k-30k,1.6219999999999999,5.401884990098565e-06
+Temporary Working Holiday Maker,Males,30k-50k,0.082,2.7309159629351564e-07
+Temporary Working Holiday Maker,Males,50k-70k,0.0,0.0
+Temporary Working Holiday Maker,Males,70k-90k,0.0,0.0
+Temporary Working Holiday Maker,Males,90k-110k,0.0,0.0
+Temporary Working Holiday Maker,Males,110k-130k,0.0,0.0
+Temporary Working Holiday Maker,Males,130-150k,0.0,0.0
+Temporary Working Holiday Maker,Males,>150k,0.0,0.0
