@@ -1,7 +1,0 @@
-gender,feature,number_of_jobs,median_income,PROPORTION
-FEMALES,Incorporated Private sector entities,26827.031,20k-30k,0.2812013749093004
-FEMALES,Public sector entities,10315.267,50k-70k,0.10812479632787297
-FEMALES,Unincorporated Private sector entities,9449.423,10k-20k,0.09904900544900277
-MALES,Incorporated Private sector entities,31806.635,30k-50k,0.33339766496107137
-MALES,Public sector entities,6306.1849999999995,50k-70k,0.06610153365209913
-MALES,Unincorporated Private sector entities,10671.919,10k-20k,0.11186322838784084

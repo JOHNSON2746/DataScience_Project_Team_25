@@ -1,0 +1,46 @@
+feature,year,gender,number_of_jobs,median_income
+Households,2017-18,MALES,1961.12,18136.0
+Households,2018-19,MALES,1959.58,18636.0
+Households,2019-20,MALES,1966.267,19162.0
+Households,2020-21,MALES,1974.467,21388.0
+Households,2021-22,MALES,1744.635,18277.0
+Households,2017-18,FEMALES,1620.298,11821.0
+Households,2018-19,FEMALES,1644.824,12240.0
+Households,2019-20,FEMALES,1646.855,13620.0
+Households,2020-21,FEMALES,1705.997,14458.0
+Households,2021-22,FEMALES,1520.708,11467.0
+Households,2017-18,PERSONS,3581.449,14836.0
+Households,2018-19,PERSONS,3604.407,15276.0
+Households,2019-20,PERSONS,3613.114,16316.0
+Households,2020-21,PERSONS,3686.062,17791.0
+Households,2021-22,PERSONS,3269.895,14461.0
+Non-profit institutions serving households,2017-18,MALES,185.144,19869.0
+Non-profit institutions serving households,2018-19,MALES,184.851,20985.0
+Non-profit institutions serving households,2019-20,MALES,189.53,23980.0
+Non-profit institutions serving households,2020-21,MALES,200.226,26531.0
+Non-profit institutions serving households,2021-22,MALES,203.035,25987.0
+Non-profit institutions serving households,2017-18,FEMALES,388.441,25984.0
+Non-profit institutions serving households,2018-19,FEMALES,385.866,27270.0
+Non-profit institutions serving households,2019-20,FEMALES,403.467,29894.0
+Non-profit institutions serving households,2020-21,FEMALES,433.296,31811.5
+Non-profit institutions serving households,2021-22,FEMALES,459.235,29736.5
+Non-profit institutions serving households,2017-18,PERSONS,573.582,24119.0
+Non-profit institutions serving households,2018-19,PERSONS,570.724,25331.0
+Non-profit institutions serving households,2019-20,PERSONS,592.999,28136.0
+Non-profit institutions serving households,2020-21,PERSONS,633.745,30150.0
+Non-profit institutions serving households,2021-22,PERSONS,662.468,28612.0
+Type of legal organisation,2017-18,MALES,,
+Type of legal organisation,2018-19,MALES,,
+Type of legal organisation,2019-20,MALES,,
+Type of legal organisation,2020-21,MALES,,
+Type of legal organisation,2021-22,MALES,,
+Type of legal organisation,2017-18,FEMALES,,
+Type of legal organisation,2018-19,FEMALES,,
+Type of legal organisation,2019-20,FEMALES,,
+Type of legal organisation,2020-21,FEMALES,,
+Type of legal organisation,2021-22,FEMALES,,
+Type of legal organisation,2017-18,PERSONS,,
+Type of legal organisation,2018-19,PERSONS,,
+Type of legal organisation,2019-20,PERSONS,,
+Type of legal organisation,2020-21,PERSONS,,
+Type of legal organisation,2021-22,PERSONS,,
