@@ -805,7 +805,7 @@ Permanent,2019-20,Persons,6.681,10573
 Permanent,2020-21,Persons,8.06,8998
 Permanent,2021-22,Persons,8.045,9978
 Permanent,2017-18,Persons,3.456,70334
-Permanent,2018-19,Persons,4.0,73198
+Permanent,2018-19,Persons,4,73198
 Permanent,2019-20,Persons,4.436,81642
 Permanent,2020-21,Persons,5.205,82361
 Permanent,2021-22,Persons,6.855,76686
@@ -932,7 +932,7 @@ Permanent,2021-22,Males,28.926,64389
 Permanent,2017-18,Males,32.976,27062
 Permanent,2018-19,Males,33.695,29331
 Permanent,2019-20,Males,34.569,31188
-Permanent,2020-21,Males,37.0,31772
+Permanent,2020-21,Males,37,31772
 Permanent,2021-22,Males,42.102,27197
 Permanent,2017-18,Males,29.691,17934
 Permanent,2018-19,Males,30.377,19388
@@ -3742,7 +3742,7 @@ Permanent Skilled,2021-22,Females,27.692,12560
 Permanent Skilled,2017-18,Females,6.076,43678
 Permanent Skilled,2018-19,Females,6.965,44702
 Permanent Skilled,2019-20,Females,7.196,45580
-Permanent Skilled,2020-21,Females,8.0,42001
+Permanent Skilled,2020-21,Females,8,42001
 Permanent Skilled,2021-22,Females,9.744,32532
 Permanent Skilled,2017-18,Females,5.966,57331
 Permanent Skilled,2018-19,Females,6.59,60433
@@ -6850,7 +6850,7 @@ Permanent Family,2019-20,Males,0.425,19811
 Permanent Family,2020-21,Males,0.522,16888
 Permanent Family,2021-22,Males,0.634,18638
 Permanent Family,2017-18,Males,0.825,31106
-Permanent Family,2018-19,Males,1.0,30230
+Permanent Family,2018-19,Males,1,30230
 Permanent Family,2019-20,Males,1.132,33248
 Permanent Family,2020-21,Males,1.228,36622
 Permanent Family,2021-22,Males,1.596,31689
@@ -7799,7 +7799,7 @@ Permanent Family,2018-19,Persons,290.986,26977
 Permanent Family,2019-20,Persons,296.418,29355
 Permanent Family,2020-21,Persons,334.013,29796
 Permanent Family,2021-22,Persons,384.53,25793
-Permanent Family,2017-18,Males,1.0,21548
+Permanent Family,2017-18,Males,1,21548
 Permanent Family,2018-19,Males,0.951,23144
 Permanent Family,2019-20,Males,0.964,25682
 Permanent Family,2020-21,Males,1.182,23777
@@ -7880,7 +7880,7 @@ Permanent Family,2019-20,Males,3.636,36704
 Permanent Family,2020-21,Males,3.707,39519
 Permanent Family,2021-22,Males,4.368,33741
 Permanent Family,2017-18,Males,4.503,40081
-Permanent Family,2018-19,Males,5.0,42154
+Permanent Family,2018-19,Males,5,42154
 Permanent Family,2019-20,Males,5.639,41757
 Permanent Family,2020-21,Males,6.859,44048
 Permanent Family,2021-22,Males,8.407,39857
@@ -10272,7 +10272,7 @@ Permanent Humanitarian,2021-22,Females,0.727,3856
 Permanent Humanitarian,2017-18,Females,1.918,11529
 Permanent Humanitarian,2018-19,Females,2.29,11707
 Permanent Humanitarian,2019-20,Females,2.461,15334
-Permanent Humanitarian,2020-21,Females,3.0,14362
+Permanent Humanitarian,2020-21,Females,3,14362
 Permanent Humanitarian,2021-22,Females,3.806,11406
 Permanent Humanitarian,2017-18,Females,54.463,13495
 Permanent Humanitarian,2018-19,Females,62.334,14055
@@ -11412,7 +11412,7 @@ Permanent Humanitarian,2021-22,Males,1.205,12657
 Permanent Humanitarian,2017-18,Males,0.717,6442
 Permanent Humanitarian,2018-19,Males,0.772,6751
 Permanent Humanitarian,2019-20,Males,0.845,7966
-Permanent Humanitarian,2020-21,Males,1.0,6703
+Permanent Humanitarian,2020-21,Males,1,6703
 Permanent Humanitarian,2021-22,Males,1.386,5062
 Permanent Humanitarian,2017-18,Males,1.175,10813
 Permanent Humanitarian,2018-19,Males,1.38,10861
@@ -11903,7 +11903,7 @@ Permanent Humanitarian,2017-18,Persons,0.682,10148
 Permanent Humanitarian,2018-19,Persons,0.744,12566
 Permanent Humanitarian,2019-20,Persons,0.805,12583
 Permanent Humanitarian,2020-21,Persons,0.78,14653
-Permanent Humanitarian,2021-22,Persons,1.0,11349
+Permanent Humanitarian,2021-22,Persons,1,11349
 Permanent Humanitarian,2017-18,Persons,0.035,17500
 Permanent Humanitarian,2018-19,Persons,0.082,1744
 Permanent Humanitarian,2019-20,Persons,0.099,2239
@@ -12559,11 +12559,11 @@ Permanent Humanitarian,2018-19,Males,1.174,21469
 Permanent Humanitarian,2019-20,Males,1.131,22639
 Permanent Humanitarian,2020-21,Males,1.308,19115
 Permanent Humanitarian,2021-22,Males,1.463,18091
-Permanent Humanitarian,2017-18,Females,0.0,0
-Permanent Humanitarian,2018-19,Females,0.0,0
-Permanent Humanitarian,2019-20,Females,0.0,0
-Permanent Humanitarian,2020-21,Females,0.0,0
-Permanent Humanitarian,2021-22,Females,0.0,0
+Permanent Humanitarian,2017-18,Females,0,0
+Permanent Humanitarian,2018-19,Females,0,0
+Permanent Humanitarian,2019-20,Females,0,0
+Permanent Humanitarian,2020-21,Females,0,0
+Permanent Humanitarian,2021-22,Females,0,0
 Permanent Humanitarian,2017-18,Females,0.011,26566
 Permanent Humanitarian,2018-19,Females,0.011,16450
 Permanent Humanitarian,2019-20,Females,0.009,13374
@@ -12799,11 +12799,11 @@ Permanent Humanitarian,2018-19,Females,0.008,9979
 Permanent Humanitarian,2019-20,Females,0.011,3179
 Permanent Humanitarian,2020-21,Females,0.013,10348
 Permanent Humanitarian,2021-22,Females,0.013,1731
-Permanent Humanitarian,2017-18,Females,0.0,0
-Permanent Humanitarian,2018-19,Females,0.0,0
-Permanent Humanitarian,2019-20,Females,0.0,0
-Permanent Humanitarian,2020-21,Females,0.0,0
-Permanent Humanitarian,2021-22,Females,0.0,0
+Permanent Humanitarian,2017-18,Females,0,0
+Permanent Humanitarian,2018-19,Females,0,0
+Permanent Humanitarian,2019-20,Females,0,0
+Permanent Humanitarian,2020-21,Females,0,0
+Permanent Humanitarian,2021-22,Females,0,0
 Permanent Humanitarian,2017-18,Females,0.012,17594
 Permanent Humanitarian,2018-19,Females,0.017,22624
 Permanent Humanitarian,2019-20,Females,0.012,19925
@@ -13433,7 +13433,7 @@ Permanent Other,2017-18,Females,8.686,31689
 Permanent Other,2018-19,Females,8.752,33549
 Permanent Other,2019-20,Females,8.383,35244
 Permanent Other,2020-21,Females,8.729,38998
-Permanent Other,2021-22,Females,9.0,37755
+Permanent Other,2021-22,Females,9,37755
 Permanent Other,2017-18,Females,8.027,17849
 Permanent Other,2018-19,Females,8.006,18691
 Permanent Other,2019-20,Females,7.506,19554
@@ -21839,7 +21839,7 @@ Australian Citizen,2018-19,Females,0.009,6410
 Australian Citizen,2019-20,Females,0.012,70596
 Australian Citizen,2020-21,Females,0.011,25338
 Australian Citizen,2021-22,Females,0.008,33998
-Australian Citizen,2017-18,Females,0.0,0
+Australian Citizen,2017-18,Females,0,0
 Australian Citizen,2018-19,Females,0.005,14702
 Australian Citizen,2019-20,Females,0.007,10739
 Australian Citizen,2020-21,Females,0.008,7085
@@ -25126,7 +25126,7 @@ Temporary,2020-21,Females,72.922,14720
 Temporary,2021-22,Females,86.748,12218
 Temporary,2017-18,Females,141.038,5635
 Temporary,2018-19,Females,163.29,5885
-Temporary,2019-20,Females,178.0,5928
+Temporary,2019-20,Females,178,5928
 Temporary,2020-21,Females,155.564,6625
 Temporary,2021-22,Females,179.555,6080
 Temporary,2017-18,Females,14.896,18074
@@ -25702,7 +25702,7 @@ Temporary,2021-22,Females,0.223,69431
 Temporary,2017-18,Females,9.505,15801
 Temporary,2018-19,Females,10.704,16643
 Temporary,2019-20,Females,10.534,19598
-Temporary,2020-21,Females,10.0,22634
+Temporary,2020-21,Females,10,22634
 Temporary,2021-22,Females,10.143,21197
 Temporary,2017-18,Females,0.434,33698
 Temporary,2018-19,Females,0.506,31694
@@ -27171,7 +27171,7 @@ Temporary,2020-21,Males,0.694,10458
 Temporary,2021-22,Males,1.041,13405
 Temporary,2017-18,Males,0.488,32535
 Temporary,2018-19,Males,0.762,28723
-Temporary,2019-20,Males,1.0,22641
+Temporary,2019-20,Males,1,22641
 Temporary,2020-21,Males,1.55,23708
 Temporary,2021-22,Males,2.529,22366
 Temporary,2017-18,Males,0.118,8222
@@ -30494,7 +30494,7 @@ Temporary Skilled,2018-19,Persons,0.009,23510
 Temporary Skilled,2019-20,Persons,0.01,87285
 Temporary Skilled,2020-21,Persons,0.012,24413
 Temporary Skilled,2021-22,Persons,0.01,6180
-Temporary Skilled,2017-18,Persons,0.0,0
+Temporary Skilled,2017-18,Persons,0,0
 Temporary Skilled,2018-19,Persons,0.006,41199
 Temporary Skilled,2019-20,Persons,0.007,26651
 Temporary Skilled,2020-21,Persons,0.008,5451
@@ -30779,11 +30779,11 @@ Temporary Skilled,2018-19,Persons,1.53,50321
 Temporary Skilled,2019-20,Persons,1.342,46916
 Temporary Skilled,2020-21,Persons,1.163,44231
 Temporary Skilled,2021-22,Persons,1.189,45983
-Temporary Skilled,2017-18,Males,0.0,0
-Temporary Skilled,2018-19,Males,0.0,0
-Temporary Skilled,2019-20,Males,0.0,0
-Temporary Skilled,2020-21,Males,0.0,0
-Temporary Skilled,2021-22,Males,0.0,0
+Temporary Skilled,2017-18,Males,0,0
+Temporary Skilled,2018-19,Males,0,0
+Temporary Skilled,2019-20,Males,0,0
+Temporary Skilled,2020-21,Males,0,0
+Temporary Skilled,2021-22,Males,0,0
 Temporary Skilled,2017-18,Males,0.031,56221
 Temporary Skilled,2018-19,Males,0.045,68750
 Temporary Skilled,2019-20,Males,0.049,67653
@@ -30854,11 +30854,11 @@ Temporary Skilled,2018-19,Males,0.819,56990
 Temporary Skilled,2019-20,Males,0.806,61710
 Temporary Skilled,2020-21,Males,0.66,64999
 Temporary Skilled,2021-22,Males,0.575,55867
-Temporary Skilled,2017-18,Females,0.0,0
-Temporary Skilled,2018-19,Females,0.0,0
-Temporary Skilled,2019-20,Females,0.0,0
-Temporary Skilled,2020-21,Females,0.0,0
-Temporary Skilled,2021-22,Females,0.0,0
+Temporary Skilled,2017-18,Females,0,0
+Temporary Skilled,2018-19,Females,0,0
+Temporary Skilled,2019-20,Females,0,0
+Temporary Skilled,2020-21,Females,0,0
+Temporary Skilled,2021-22,Females,0,0
 Temporary Skilled,2017-18,Females,0.011,10620
 Temporary Skilled,2018-19,Females,0.005,18414
 Temporary Skilled,2019-20,Females,0.008,22020
@@ -30929,11 +30929,11 @@ Temporary Skilled,2018-19,Females,0.551,32048
 Temporary Skilled,2019-20,Females,0.565,32818
 Temporary Skilled,2020-21,Females,0.424,36560
 Temporary Skilled,2021-22,Females,0.411,31780
-Temporary Skilled,2017-18,Persons,0.0,0
-Temporary Skilled,2018-19,Persons,0.0,0
-Temporary Skilled,2019-20,Persons,0.0,0
-Temporary Skilled,2020-21,Persons,0.0,0
-Temporary Skilled,2021-22,Persons,0.0,0
+Temporary Skilled,2017-18,Persons,0,0
+Temporary Skilled,2018-19,Persons,0,0
+Temporary Skilled,2019-20,Persons,0,0
+Temporary Skilled,2020-21,Persons,0,0
+Temporary Skilled,2021-22,Persons,0,0
 Temporary Skilled,2017-18,Persons,0.037,53029
 Temporary Skilled,2018-19,Persons,0.045,65386
 Temporary Skilled,2019-20,Persons,0.056,64632
@@ -36222,7 +36222,7 @@ Temporary Working Holiday Maker,2021-22,Males,0.016,6494
 Temporary Working Holiday Maker,2017-18,Males,0.011,387
 Temporary Working Holiday Maker,2018-19,Males,0.008,353
 Temporary Working Holiday Maker,2019-20,Males,0.005,2079
-Temporary Working Holiday Maker,2020-21,Males,0.0,0
+Temporary Working Holiday Maker,2020-21,Males,0,0
 Temporary Working Holiday Maker,2021-22,Males,0.003,300
 Temporary Working Holiday Maker,2017-18,Males,0.027,3424
 Temporary Working Holiday Maker,2018-19,Males,0.031,1369
@@ -36469,11 +36469,11 @@ Temporary Working Holiday Maker,2018-19,Males,0.076,1958
 Temporary Working Holiday Maker,2019-20,Males,0.062,2998
 Temporary Working Holiday Maker,2020-21,Males,0.038,5684
 Temporary Working Holiday Maker,2021-22,Males,0.014,8064
-Temporary Working Holiday Maker,2017-18,Males,0.0,0
-Temporary Working Holiday Maker,2018-19,Males,0.0,0
-Temporary Working Holiday Maker,2019-20,Males,0.0,0
-Temporary Working Holiday Maker,2020-21,Males,0.0,0
-Temporary Working Holiday Maker,2021-22,Males,0.0,0
+Temporary Working Holiday Maker,2017-18,Males,0,0
+Temporary Working Holiday Maker,2018-19,Males,0,0
+Temporary Working Holiday Maker,2019-20,Males,0,0
+Temporary Working Holiday Maker,2020-21,Males,0,0
+Temporary Working Holiday Maker,2021-22,Males,0,0
 Temporary Working Holiday Maker,2017-18,Males,0.02,6517
 Temporary Working Holiday Maker,2018-19,Males,0.039,6322
 Temporary Working Holiday Maker,2019-20,Males,0.022,9684
@@ -36508,7 +36508,7 @@ Temporary Working Holiday Maker,2017-18,Males,0.005,12523
 Temporary Working Holiday Maker,2018-19,Males,0.011,9525
 Temporary Working Holiday Maker,2019-20,Males,0.013,4568
 Temporary Working Holiday Maker,2020-21,Males,0.006,7123
-Temporary Working Holiday Maker,2021-22,Males,0.0,0
+Temporary Working Holiday Maker,2021-22,Males,0,0
 Temporary Working Holiday Maker,2017-18,Males,0.601,5920
 Temporary Working Holiday Maker,2018-19,Males,0.715,5715
 Temporary Working Holiday Maker,2019-20,Males,0.687,6329
@@ -36519,11 +36519,11 @@ Temporary Working Holiday Maker,2018-19,Females,0.087,2476
 Temporary Working Holiday Maker,2019-20,Females,0.064,2593
 Temporary Working Holiday Maker,2020-21,Females,0.029,4735
 Temporary Working Holiday Maker,2021-22,Females,0.007,9072
-Temporary Working Holiday Maker,2017-18,Females,0.0,0
-Temporary Working Holiday Maker,2018-19,Females,0.0,0
-Temporary Working Holiday Maker,2019-20,Females,0.0,0
-Temporary Working Holiday Maker,2020-21,Females,0.0,0
-Temporary Working Holiday Maker,2021-22,Females,0.0,0
+Temporary Working Holiday Maker,2017-18,Females,0,0
+Temporary Working Holiday Maker,2018-19,Females,0,0
+Temporary Working Holiday Maker,2019-20,Females,0,0
+Temporary Working Holiday Maker,2020-21,Females,0,0
+Temporary Working Holiday Maker,2021-22,Females,0,0
 Temporary Working Holiday Maker,2017-18,Females,0.012,3257
 Temporary Working Holiday Maker,2018-19,Females,0.011,7640
 Temporary Working Holiday Maker,2019-20,Females,0.016,3322
@@ -36569,11 +36569,11 @@ Temporary Working Holiday Maker,2018-19,Persons,0.158,2209
 Temporary Working Holiday Maker,2019-20,Persons,0.118,2931
 Temporary Working Holiday Maker,2020-21,Persons,0.065,5355
 Temporary Working Holiday Maker,2021-22,Persons,0.022,8545
-Temporary Working Holiday Maker,2017-18,Persons,0.0,0
-Temporary Working Holiday Maker,2018-19,Persons,0.0,0
-Temporary Working Holiday Maker,2019-20,Persons,0.0,0
-Temporary Working Holiday Maker,2020-21,Persons,0.0,0
-Temporary Working Holiday Maker,2021-22,Persons,0.0,0
+Temporary Working Holiday Maker,2017-18,Persons,0,0
+Temporary Working Holiday Maker,2018-19,Persons,0,0
+Temporary Working Holiday Maker,2019-20,Persons,0,0
+Temporary Working Holiday Maker,2020-21,Persons,0,0
+Temporary Working Holiday Maker,2021-22,Persons,0,0
 Temporary Working Holiday Maker,2017-18,Persons,0.035,5620
 Temporary Working Holiday Maker,2018-19,Persons,0.049,6318
 Temporary Working Holiday Maker,2019-20,Persons,0.037,5317
@@ -38954,9 +38954,9 @@ Temporary Other,2018-19,Females,0.111,18390
 Temporary Other,2019-20,Females,0.082,16307
 Temporary Other,2020-21,Females,0.29,17777
 Temporary Other,2021-22,Females,0.444,16827
-Temporary Other,2017-18,Females,0.0,0
-Temporary Other,2018-19,Females,0.0,0
-Temporary Other,2019-20,Females,0.0,0
+Temporary Other,2017-18,Females,0,0
+Temporary Other,2018-19,Females,0,0
+Temporary Other,2019-20,Females,0,0
 Temporary Other,2020-21,Females,0.01,4515
 Temporary Other,2021-22,Females,0.011,19784
 Temporary Other,2017-18,Females,0.011,6291
@@ -39349,11 +39349,11 @@ Temporary Other,2018-19,Males,0.672,21252
 Temporary Other,2019-20,Males,0.806,21895
 Temporary Other,2020-21,Males,0.946,23080
 Temporary Other,2021-22,Males,1.079,21468
-Temporary Other,2017-18,Females,0.0,0
-Temporary Other,2018-19,Females,0.0,0
-Temporary Other,2019-20,Females,0.0,0
-Temporary Other,2020-21,Females,0.0,0
-Temporary Other,2021-22,Females,0.0,0
+Temporary Other,2017-18,Females,0,0
+Temporary Other,2018-19,Females,0,0
+Temporary Other,2019-20,Females,0,0
+Temporary Other,2020-21,Females,0,0
+Temporary Other,2021-22,Females,0,0
 Temporary Other,2017-18,Females,0.026,10706
 Temporary Other,2018-19,Females,0.035,6047
 Temporary Other,2019-20,Females,0.041,11971
@@ -40105,7 +40105,7 @@ Bridging visas,2019-20,Persons,101.112,16024
 Bridging visas,2020-21,Persons,136.802,14890
 Bridging visas,2021-22,Persons,195.965,14944
 Bridging visas,2017-18,Males,1.257,9203
-Bridging visas,2018-19,Males,1.0,9708
+Bridging visas,2018-19,Males,1,9708
 Bridging visas,2019-20,Males,1.382,8147
 Bridging visas,2020-21,Males,1.727,8097
 Bridging visas,2021-22,Males,2.01,12469
@@ -40499,7 +40499,7 @@ Bridging visas,2018-19,Males,0.585,15972
 Bridging visas,2019-20,Males,0.673,17460
 Bridging visas,2020-21,Males,0.958,16203
 Bridging visas,2021-22,Males,1.388,18327
-Bridging visas,2017-18,Males,18.0,15027
+Bridging visas,2017-18,Males,18,15027
 Bridging visas,2018-19,Males,17.445,15773
 Bridging visas,2019-20,Males,22.273,13500
 Bridging visas,2020-21,Males,31.937,11962
