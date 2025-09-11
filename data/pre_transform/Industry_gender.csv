@@ -1,286 +1,191 @@
-feature,year,gender,number_of_jobs,median_income
-Industry,2017-18,MALES,,
-Industry,2018-19,MALES,,
-Industry,2019-20,MALES,,
-Industry,2020-21,MALES,,
-Industry,2021-22,MALES,,
-Industry,2017-18,FEMALES,,
-Industry,2018-19,FEMALES,,
-Industry,2019-20,FEMALES,,
-Industry,2020-21,FEMALES,,
-Industry,2021-22,FEMALES,,
-Industry,2017-18,PERSONS,,
-Industry,2018-19,PERSONS,,
-Industry,2019-20,PERSONS,,
-Industry,2020-21,PERSONS,,
-Industry,2021-22,PERSONS,,
-"Agriculture, forestry and fishing",2017-18,MALES,300.653,8023.0
-"Agriculture, forestry and fishing",2018-19,MALES,312.944,8500.0
-"Agriculture, forestry and fishing",2019-20,MALES,306.41,9191.0
-"Agriculture, forestry and fishing",2020-21,MALES,312.397,10550.0
-"Agriculture, forestry and fishing",2021-22,MALES,304.528,13390.0
-"Agriculture, forestry and fishing",2017-18,FEMALES,142.82,5418.0
-"Agriculture, forestry and fishing",2018-19,FEMALES,148.859,5616.0
-"Agriculture, forestry and fishing",2019-20,FEMALES,146.55,6173.0
-"Agriculture, forestry and fishing",2020-21,FEMALES,146.943,7167.5
-"Agriculture, forestry and fishing",2021-22,FEMALES,140.509,8476.0
-"Agriculture, forestry and fishing",2017-18,PERSONS,443.472,6962.0
-"Agriculture, forestry and fishing",2018-19,PERSONS,461.797,7310.0
-"Agriculture, forestry and fishing",2019-20,PERSONS,452.952,7955.0
-"Agriculture, forestry and fishing",2020-21,PERSONS,460.479,9163.0
-"Agriculture, forestry and fishing",2021-22,PERSONS,445.75,11371.0
-Mining,2017-18,MALES,175.462,113225.0
-Mining,2018-19,MALES,188.295,113484.0
-Mining,2019-20,MALES,197.53,117282.0
-Mining,2020-21,MALES,201.427,122052.0
-Mining,2021-22,MALES,222.608,118017.0
-Mining,2017-18,FEMALES,34.605,74928.0
-Mining,2018-19,FEMALES,38.271,76321.0
-Mining,2019-20,FEMALES,41.193,80564.0
-Mining,2020-21,FEMALES,45.83,85492.0
-Mining,2021-22,FEMALES,54.353,81729.0
-Mining,2017-18,PERSONS,210.07,106087.0
-Mining,2018-19,PERSONS,226.56,106243.5
-Mining,2019-20,PERSONS,238.723,110105.5
-Mining,2020-21,PERSONS,247.264,114689.5
-Mining,2021-22,PERSONS,276.979,109392.0
-Manufacturing,2017-18,MALES,772.992,50517.0
-Manufacturing,2018-19,MALES,762.152,53191.0
-Manufacturing,2019-20,MALES,737.159,55146.0
-Manufacturing,2020-21,MALES,766.889,54938.0
-Manufacturing,2021-22,MALES,798.677,54327.0
-Manufacturing,2017-18,FEMALES,313.726,27691.0
-Manufacturing,2018-19,FEMALES,316.989,29899.0
-Manufacturing,2019-20,FEMALES,304.445,32666.5
-Manufacturing,2020-21,FEMALES,321.898,32319.0
-Manufacturing,2021-22,FEMALES,347.009,29090.0
-Manufacturing,2017-18,PERSONS,1086.726,43835.0
-Manufacturing,2018-19,PERSONS,1079.141,46364.0
-Manufacturing,2019-20,PERSONS,1041.605,48646.5
-Manufacturing,2020-21,PERSONS,1089.256,48130.0
-Manufacturing,2021-22,PERSONS,1146.17,46674.5
-"Electricity, gas, water and waste services",2017-18,MALES,101.674,85040.5
-"Electricity, gas, water and waste services",2018-19,MALES,105.919,83831.5
-"Electricity, gas, water and waste services",2019-20,MALES,106.19,86655.0
-"Electricity, gas, water and waste services",2020-21,MALES,111.884,89393.0
-"Electricity, gas, water and waste services",2021-22,MALES,116.78,88774.5
-"Electricity, gas, water and waste services",2017-18,FEMALES,33.057,63566.0
-"Electricity, gas, water and waste services",2018-19,FEMALES,35.004,63029.5
-"Electricity, gas, water and waste services",2019-20,FEMALES,35.076,66107.0
-"Electricity, gas, water and waste services",2020-21,FEMALES,37.84,69231.0
-"Electricity, gas, water and waste services",2021-22,FEMALES,40.827,68254.0
-"Electricity, gas, water and waste services",2017-18,PERSONS,134.735,78445.5
-"Electricity, gas, water and waste services",2018-19,PERSONS,140.926,77429.0
-"Electricity, gas, water and waste services",2019-20,PERSONS,141.271,80604.5
-"Electricity, gas, water and waste services",2020-21,PERSONS,149.737,83289.0
-"Electricity, gas, water and waste services",2021-22,PERSONS,157.613,82383.5
-Construction,2017-18,MALES,1223.972,35574.0
-Construction,2018-19,MALES,1244.848,37286.0
-Construction,2019-20,MALES,1229.27,39054.0
-Construction,2020-21,MALES,1286.828,39989.5
-Construction,2021-22,MALES,1357.11,40279.0
-Construction,2017-18,FEMALES,196.963,25697.5
-Construction,2018-19,FEMALES,203.517,27152.5
-Construction,2019-20,FEMALES,204.728,29932.5
-Construction,2020-21,FEMALES,224.732,30691.0
-Construction,2021-22,FEMALES,242.476,29975.0
-Construction,2017-18,PERSONS,1420.945,34047.0
-Construction,2018-19,PERSONS,1448.365,35783.5
-Construction,2019-20,PERSONS,1433.992,37508.0
-Construction,2020-21,PERSONS,1511.806,38414.0
-Construction,2021-22,PERSONS,1599.818,38610.0
-Wholesale trade,2017-18,MALES,456.995,50632.0
-Wholesale trade,2018-19,MALES,459.354,52409.0
-Wholesale trade,2019-20,MALES,453.327,54808.5
-Wholesale trade,2020-21,MALES,469.8,54150.0
-Wholesale trade,2021-22,MALES,484.99,54445.0
-Wholesale trade,2017-18,FEMALES,258.133,31360.0
-Wholesale trade,2018-19,FEMALES,263.127,33094.5
-Wholesale trade,2019-20,FEMALES,253.779,36660.0
-Wholesale trade,2020-21,FEMALES,259.43,36657.0
-Wholesale trade,2021-22,FEMALES,273.058,35527.0
-Wholesale trade,2017-18,PERSONS,715.136,43649.0
-Wholesale trade,2018-19,PERSONS,722.482,45478.0
-Wholesale trade,2019-20,PERSONS,707.102,48367.0
-Wholesale trade,2020-21,PERSONS,729.377,47784.0
-Wholesale trade,2021-22,PERSONS,758.191,47547.0
-Retail trade,2017-18,MALES,741.527,22346.0
-Retail trade,2018-19,MALES,748.927,23333.0
-Retail trade,2019-20,MALES,766.699,24351.5
-Retail trade,2020-21,MALES,806.332,24008.0
-Retail trade,2021-22,MALES,906.077,20083.0
-Retail trade,2017-18,FEMALES,979.437,15451.0
-Retail trade,2018-19,FEMALES,993.892,16071.0
-Retail trade,2019-20,FEMALES,992.157,17634.0
-Retail trade,2020-21,FEMALES,1057.755,17064.0
-Retail trade,2021-22,FEMALES,1185.085,13750.0
-Retail trade,2017-18,PERSONS,1720.984,17994.0
-Retail trade,2018-19,PERSONS,1742.822,18679.0
-Retail trade,2019-20,PERSONS,1758.859,20116.0
-Retail trade,2020-21,PERSONS,1865.633,19623.0
-Retail trade,2021-22,PERSONS,2092.832,16040.0
-Accommodation and food services,2017-18,MALES,664.001,8825.0
-Accommodation and food services,2018-19,MALES,686.934,9203.0
-Accommodation and food services,2019-20,MALES,698.629,9885.0
-Accommodation and food services,2020-21,MALES,738.674,9750.0
-Accommodation and food services,2021-22,MALES,831.553,7841.0
-Accommodation and food services,2017-18,FEMALES,814.992,6942.0
-Accommodation and food services,2018-19,FEMALES,846.439,7221.0
-Accommodation and food services,2019-20,FEMALES,859.383,7727.0
-Accommodation and food services,2020-21,FEMALES,918.542,7673.0
-Accommodation and food services,2021-22,FEMALES,1046.07,6139.0
-Accommodation and food services,2017-18,PERSONS,1478.998,7700.0
-Accommodation and food services,2018-19,PERSONS,1533.374,8022.0
-Accommodation and food services,2019-20,PERSONS,1558.011,8623.0
-Accommodation and food services,2020-21,PERSONS,1663.863,8456.0
-Accommodation and food services,2021-22,PERSONS,1884.119,6769.0
-"Transport, postal and warehousing",2017-18,MALES,582.854,35181.5
-"Transport, postal and warehousing",2018-19,MALES,598.987,35942.5
-"Transport, postal and warehousing",2019-20,MALES,616.587,34807.5
-"Transport, postal and warehousing",2020-21,MALES,639.66,35160.0
-"Transport, postal and warehousing",2021-22,MALES,689.174,30352.0
-"Transport, postal and warehousing",2017-18,FEMALES,166.94,32430.0
-"Transport, postal and warehousing",2018-19,FEMALES,174.14,33655.5
-"Transport, postal and warehousing",2019-20,FEMALES,173.273,34277.0
-"Transport, postal and warehousing",2020-21,FEMALES,183.504,31595.0
-"Transport, postal and warehousing",2021-22,FEMALES,208.533,25440.0
-"Transport, postal and warehousing",2017-18,PERSONS,749.81,34445.0
-"Transport, postal and warehousing",2018-19,PERSONS,773.125,35308.0
-"Transport, postal and warehousing",2019-20,PERSONS,789.863,34657.0
-"Transport, postal and warehousing",2020-21,PERSONS,823.337,34189.0
-"Transport, postal and warehousing",2021-22,PERSONS,897.837,29160.0
-Information media and telecommunications,2017-18,MALES,163.964,48450.0
-Information media and telecommunications,2018-19,MALES,169.072,44412.0
-Information media and telecommunications,2019-20,MALES,160.978,49846.0
-Information media and telecommunications,2020-21,MALES,165.048,45000.0
-Information media and telecommunications,2021-22,MALES,184.815,44230.0
-Information media and telecommunications,2017-18,FEMALES,119.673,27514.0
-Information media and telecommunications,2018-19,FEMALES,123.96,24999.0
-Information media and telecommunications,2019-20,FEMALES,114.616,30300.0
-Information media and telecommunications,2020-21,FEMALES,118.277,27900.0
-Information media and telecommunications,2021-22,FEMALES,133.897,25524.0
-Information media and telecommunications,2017-18,PERSONS,283.683,37571.5
-Information media and telecommunications,2018-19,PERSONS,293.031,34098.5
-Information media and telecommunications,2019-20,PERSONS,275.593,39917.0
-Information media and telecommunications,2020-21,PERSONS,283.431,36191.0
-Information media and telecommunications,2021-22,PERSONS,318.835,34586.0
-Finance and insurance services,2017-18,MALES,355.158,46961.5
-Finance and insurance services,2018-19,MALES,382.121,46815.5
-Finance and insurance services,2019-20,MALES,398.791,49045.0
-Finance and insurance services,2020-21,MALES,413.855,50163.5
-Finance and insurance services,2021-22,MALES,465.989,46266.0
-Finance and insurance services,2017-18,FEMALES,374.092,36000.0
-Finance and insurance services,2018-19,FEMALES,385.39,37657.5
-Finance and insurance services,2019-20,FEMALES,396.768,39749.0
-Finance and insurance services,2020-21,FEMALES,416.032,39757.5
-Finance and insurance services,2021-22,FEMALES,465.472,37135.0
-Finance and insurance services,2017-18,PERSONS,729.257,40347.5
-Finance and insurance services,2018-19,PERSONS,767.519,41566.0
-Finance and insurance services,2019-20,PERSONS,795.557,43801.0
-Finance and insurance services,2020-21,PERSONS,829.987,44386.0
-Finance and insurance services,2021-22,PERSONS,931.544,41058.5
-"Rental, hiring and real estate services",2017-18,MALES,194.4,30275.0
-"Rental, hiring and real estate services",2018-19,MALES,195.426,31108.5
-"Rental, hiring and real estate services",2019-20,MALES,192.114,34365.0
-"Rental, hiring and real estate services",2020-21,MALES,194.04,36436.5
-"Rental, hiring and real estate services",2021-22,MALES,209.783,35476.0
-"Rental, hiring and real estate services",2017-18,FEMALES,192.308,22597.5
-"Rental, hiring and real estate services",2018-19,FEMALES,192.512,23552.0
-"Rental, hiring and real estate services",2019-20,FEMALES,185.311,26730.0
-"Rental, hiring and real estate services",2020-21,FEMALES,190.757,27010.0
-"Rental, hiring and real estate services",2021-22,FEMALES,203.488,25710.5
-"Rental, hiring and real estate services",2017-18,PERSONS,386.712,25789.0
-"Rental, hiring and real estate services",2018-19,PERSONS,387.941,26682.0
-"Rental, hiring and real estate services",2019-20,PERSONS,377.426,29928.5
-"Rental, hiring and real estate services",2020-21,PERSONS,384.951,30857.0
-"Rental, hiring and real estate services",2021-22,PERSONS,413.436,29917.0
-"Professional, scientific and technical services",2017-18,MALES,826.485,48000.0
-"Professional, scientific and technical services",2018-19,MALES,866.673,50228.0
-"Professional, scientific and technical services",2019-20,MALES,865.071,54362.0
-"Professional, scientific and technical services",2020-21,MALES,899.699,55700.0
-"Professional, scientific and technical services",2021-22,MALES,972.433,54600.0
-"Professional, scientific and technical services",2017-18,FEMALES,693.821,26559.5
-"Professional, scientific and technical services",2018-19,FEMALES,730.997,28000.0
-"Professional, scientific and technical services",2019-20,FEMALES,720.372,31616.0
-"Professional, scientific and technical services",2020-21,FEMALES,759.972,32950.0
-"Professional, scientific and technical services",2021-22,FEMALES,844.605,31612.0
-"Professional, scientific and technical services",2017-18,PERSONS,1520.329,36268.0
-"Professional, scientific and technical services",2018-19,PERSONS,1597.672,38113.0
-"Professional, scientific and technical services",2019-20,PERSONS,1585.446,42015.0
-"Professional, scientific and technical services",2020-21,PERSONS,1659.922,43238.0
-"Professional, scientific and technical services",2021-22,PERSONS,1817.314,42083.0
-Administrative and support services,2017-18,MALES,1023.503,13158.0
-Administrative and support services,2018-19,MALES,1056.63,13990.0
-Administrative and support services,2019-20,MALES,1049.145,14809.0
-Administrative and support services,2020-21,MALES,1078.97,14737.5
-Administrative and support services,2021-22,MALES,1167.226,14665.0
-Administrative and support services,2017-18,FEMALES,800.45,11000.0
-Administrative and support services,2018-19,FEMALES,857.829,11516.0
-Administrative and support services,2019-20,FEMALES,853.723,12425.0
-Administrative and support services,2020-21,FEMALES,855.899,13132.0
-Administrative and support services,2021-22,FEMALES,976.043,11691.0
-Administrative and support services,2017-18,PERSONS,1823.971,12135.0
-Administrative and support services,2018-19,PERSONS,1914.458,12786.0
-Administrative and support services,2019-20,PERSONS,1902.869,13651.0
-Administrative and support services,2020-21,PERSONS,1935.277,13960.0
-Administrative and support services,2021-22,PERSONS,2143.776,13179.0
-Public administration and safety,2017-18,MALES,563.436,69694.0
-Public administration and safety,2018-19,MALES,626.479,68564.0
-Public administration and safety,2019-20,MALES,584.404,71301.0
-Public administration and safety,2020-21,MALES,590.999,74591.0
-Public administration and safety,2021-22,MALES,658.314,70140.0
-Public administration and safety,2017-18,FEMALES,491.015,56310.0
-Public administration and safety,2018-19,FEMALES,640.11,51507.0
-Public administration and safety,2019-20,FEMALES,519.412,59204.0
-Public administration and safety,2020-21,FEMALES,527.33,63904.0
-Public administration and safety,2021-22,FEMALES,622.43,56170.5
-Public administration and safety,2017-18,PERSONS,1054.455,63451.0
-Public administration and safety,2018-19,PERSONS,1266.593,60320.0
-Public administration and safety,2019-20,PERSONS,1103.81,65547.0
-Public administration and safety,2020-21,PERSONS,1118.373,69459.0
-Public administration and safety,2021-22,PERSONS,1280.808,63529.5
-Education and training,2017-18,MALES,458.685,29221.0
-Education and training,2018-19,MALES,446.551,27428.0
-Education and training,2019-20,MALES,474.236,32031.5
-Education and training,2020-21,MALES,464.077,36215.5
-Education and training,2021-22,MALES,499.661,32399.0
-Education and training,2017-18,FEMALES,1031.478,30307.0
-Education and training,2018-19,FEMALES,988.92,28862.0
-Education and training,2019-20,FEMALES,1066.52,33964.0
-Education and training,2020-21,FEMALES,1065.633,36501.0
-Education and training,2021-22,FEMALES,1175.18,32565.0
-Education and training,2017-18,PERSONS,1490.189,30031.0
-Education and training,2018-19,PERSONS,1435.469,28506.0
-Education and training,2019-20,PERSONS,1540.755,33512.0
-Education and training,2020-21,PERSONS,1530.025,36419.0
-Education and training,2021-22,PERSONS,1675.169,32504.0
-Health care and social assistance,2017-18,MALES,464.069,49199.0
-Health care and social assistance,2018-19,MALES,495.63,49852.0
-Health care and social assistance,2019-20,MALES,493.121,48074.0
-Health care and social assistance,2020-21,MALES,578.676,50868.0
-Health care and social assistance,2021-22,MALES,639.622,46915.0
-Health care and social assistance,2017-18,FEMALES,1698.774,35395.0
-Health care and social assistance,2018-19,FEMALES,1814.066,36371.0
-Health care and social assistance,2019-20,FEMALES,1774.976,36079.0
-Health care and social assistance,2020-21,FEMALES,2077.339,37535.0
-Health care and social assistance,2021-22,FEMALES,2291.362,34353.0
-Health care and social assistance,2017-18,PERSONS,2162.857,37535.0
-Health care and social assistance,2018-19,PERSONS,2309.7,38494.0
-Health care and social assistance,2019-20,PERSONS,2268.093,37955.0
-Health care and social assistance,2020-21,PERSONS,2656.171,39725.0
-Health care and social assistance,2021-22,PERSONS,2931.168,36450.0
-Arts and recreation services,2017-18,MALES,184.569,10195.0
-Arts and recreation services,2018-19,MALES,192.773,10576.0
-Arts and recreation services,2019-20,MALES,192.931,12132.0
-Arts and recreation services,2020-21,MALES,191.544,13932.0
-Arts and recreation services,2021-22,MALES,209.296,9619.5
-Arts and recreation services,2017-18,FEMALES,199.245,6861.0
-Arts and recreation services,2018-19,FEMALES,215.345,7107.0
-Arts and recreation services,2019-20,FEMALES,220.447,8028.0
-Arts and recreation services,2020-21,FEMALES,225.357,8999.0
-Arts and recreation services,2021-22,FEMALES,252.296,6258.0
-Arts and recreation services,2017-18,PERSONS,383.824,8228.0
-Arts and recreation services,2018-19,PERSONS,408.118,8500.0
-Arts and recreation services,2019-20,PERSONS,413.378,9799.0
-Arts and recreation services,2020-21,PERSONS,417.257,10871.5
-Arts and recreation services,2021-22,PERSONS,462.056,7500.0
+SEX,YEAR,Industry,NUM JOBS,INCOME
+Male,2017,"Agriculture, forestry and fishing",300.653,8023.0
+Male,2018,"Agriculture, forestry and fishing",312.944,8500.0
+Male,2019,"Agriculture, forestry and fishing",306.41,9191.0
+Male,2020,"Agriculture, forestry and fishing",312.397,10550.0
+Male,2021,"Agriculture, forestry and fishing",304.528,13390.0
+Female,2017,"Agriculture, forestry and fishing",142.82,5418.0
+Female,2018,"Agriculture, forestry and fishing",148.859,5616.0
+Female,2019,"Agriculture, forestry and fishing",146.55,6173.0
+Female,2020,"Agriculture, forestry and fishing",146.943,7167.5
+Female,2021,"Agriculture, forestry and fishing",140.509,8476.0
+Male,2017,Mining,175.462,113225.0
+Male,2018,Mining,188.295,113484.0
+Male,2019,Mining,197.53,117282.0
+Male,2020,Mining,201.427,122052.0
+Male,2021,Mining,222.608,118017.0
+Female,2017,Mining,34.605,74928.0
+Female,2018,Mining,38.271,76321.0
+Female,2019,Mining,41.193,80564.0
+Female,2020,Mining,45.83,85492.0
+Female,2021,Mining,54.353,81729.0
+Male,2017,Manufacturing,772.992,50517.0
+Male,2018,Manufacturing,762.152,53191.0
+Male,2019,Manufacturing,737.159,55146.0
+Male,2020,Manufacturing,766.889,54938.0
+Male,2021,Manufacturing,798.677,54327.0
+Female,2017,Manufacturing,313.726,27691.0
+Female,2018,Manufacturing,316.989,29899.0
+Female,2019,Manufacturing,304.445,32666.5
+Female,2020,Manufacturing,321.898,32319.0
+Female,2021,Manufacturing,347.009,29090.0
+Male,2017,"Electricity, gas, water and waste services",101.674,85040.5
+Male,2018,"Electricity, gas, water and waste services",105.919,83831.5
+Male,2019,"Electricity, gas, water and waste services",106.19,86655.0
+Male,2020,"Electricity, gas, water and waste services",111.884,89393.0
+Male,2021,"Electricity, gas, water and waste services",116.78,88774.5
+Female,2017,"Electricity, gas, water and waste services",33.057,63566.0
+Female,2018,"Electricity, gas, water and waste services",35.004,63029.5
+Female,2019,"Electricity, gas, water and waste services",35.076,66107.0
+Female,2020,"Electricity, gas, water and waste services",37.84,69231.0
+Female,2021,"Electricity, gas, water and waste services",40.827,68254.0
+Male,2017,Construction,1223.972,35574.0
+Male,2018,Construction,1244.848,37286.0
+Male,2019,Construction,1229.27,39054.0
+Male,2020,Construction,1286.828,39989.5
+Male,2021,Construction,1357.11,40279.0
+Female,2017,Construction,196.963,25697.5
+Female,2018,Construction,203.517,27152.5
+Female,2019,Construction,204.728,29932.5
+Female,2020,Construction,224.732,30691.0
+Female,2021,Construction,242.476,29975.0
+Male,2017,Wholesale trade,456.995,50632.0
+Male,2018,Wholesale trade,459.354,52409.0
+Male,2019,Wholesale trade,453.327,54808.5
+Male,2020,Wholesale trade,469.8,54150.0
+Male,2021,Wholesale trade,484.99,54445.0
+Female,2017,Wholesale trade,258.133,31360.0
+Female,2018,Wholesale trade,263.127,33094.5
+Female,2019,Wholesale trade,253.779,36660.0
+Female,2020,Wholesale trade,259.43,36657.0
+Female,2021,Wholesale trade,273.058,35527.0
+Male,2017,Retail trade,741.527,22346.0
+Male,2018,Retail trade,748.927,23333.0
+Male,2019,Retail trade,766.699,24351.5
+Male,2020,Retail trade,806.332,24008.0
+Male,2021,Retail trade,906.077,20083.0
+Female,2017,Retail trade,979.437,15451.0
+Female,2018,Retail trade,993.892,16071.0
+Female,2019,Retail trade,992.157,17634.0
+Female,2020,Retail trade,1057.755,17064.0
+Female,2021,Retail trade,1185.085,13750.0
+Male,2017,Accommodation and food services,664.001,8825.0
+Male,2018,Accommodation and food services,686.934,9203.0
+Male,2019,Accommodation and food services,698.629,9885.0
+Male,2020,Accommodation and food services,738.674,9750.0
+Male,2021,Accommodation and food services,831.553,7841.0
+Female,2017,Accommodation and food services,814.992,6942.0
+Female,2018,Accommodation and food services,846.439,7221.0
+Female,2019,Accommodation and food services,859.383,7727.0
+Female,2020,Accommodation and food services,918.542,7673.0
+Female,2021,Accommodation and food services,1046.07,6139.0
+Male,2017,"Transport, postal and warehousing",582.854,35181.5
+Male,2018,"Transport, postal and warehousing",598.987,35942.5
+Male,2019,"Transport, postal and warehousing",616.587,34807.5
+Male,2020,"Transport, postal and warehousing",639.66,35160.0
+Male,2021,"Transport, postal and warehousing",689.174,30352.0
+Female,2017,"Transport, postal and warehousing",166.94,32430.0
+Female,2018,"Transport, postal and warehousing",174.14,33655.5
+Female,2019,"Transport, postal and warehousing",173.273,34277.0
+Female,2020,"Transport, postal and warehousing",183.504,31595.0
+Female,2021,"Transport, postal and warehousing",208.533,25440.0
+Male,2017,Information media and telecommunications,163.964,48450.0
+Male,2018,Information media and telecommunications,169.072,44412.0
+Male,2019,Information media and telecommunications,160.978,49846.0
+Male,2020,Information media and telecommunications,165.048,45000.0
+Male,2021,Information media and telecommunications,184.815,44230.0
+Female,2017,Information media and telecommunications,119.673,27514.0
+Female,2018,Information media and telecommunications,123.96,24999.0
+Female,2019,Information media and telecommunications,114.616,30300.0
+Female,2020,Information media and telecommunications,118.277,27900.0
+Female,2021,Information media and telecommunications,133.897,25524.0
+Male,2017,Finance and insurance services,355.158,46961.5
+Male,2018,Finance and insurance services,382.121,46815.5
+Male,2019,Finance and insurance services,398.791,49045.0
+Male,2020,Finance and insurance services,413.855,50163.5
+Male,2021,Finance and insurance services,465.989,46266.0
+Female,2017,Finance and insurance services,374.092,36000.0
+Female,2018,Finance and insurance services,385.39,37657.5
+Female,2019,Finance and insurance services,396.768,39749.0
+Female,2020,Finance and insurance services,416.032,39757.5
+Female,2021,Finance and insurance services,465.472,37135.0
+Male,2017,"Rental, hiring and real estate services",194.4,30275.0
+Male,2018,"Rental, hiring and real estate services",195.426,31108.5
+Male,2019,"Rental, hiring and real estate services",192.114,34365.0
+Male,2020,"Rental, hiring and real estate services",194.04,36436.5
+Male,2021,"Rental, hiring and real estate services",209.783,35476.0
+Female,2017,"Rental, hiring and real estate services",192.308,22597.5
+Female,2018,"Rental, hiring and real estate services",192.512,23552.0
+Female,2019,"Rental, hiring and real estate services",185.311,26730.0
+Female,2020,"Rental, hiring and real estate services",190.757,27010.0
+Female,2021,"Rental, hiring and real estate services",203.488,25710.5
+Male,2017,"Professional, scientific and technical services",826.485,48000.0
+Male,2018,"Professional, scientific and technical services",866.673,50228.0
+Male,2019,"Professional, scientific and technical services",865.071,54362.0
+Male,2020,"Professional, scientific and technical services",899.699,55700.0
+Male,2021,"Professional, scientific and technical services",972.433,54600.0
+Female,2017,"Professional, scientific and technical services",693.821,26559.5
+Female,2018,"Professional, scientific and technical services",730.997,28000.0
+Female,2019,"Professional, scientific and technical services",720.372,31616.0
+Female,2020,"Professional, scientific and technical services",759.972,32950.0
+Female,2021,"Professional, scientific and technical services",844.605,31612.0
+Male,2017,Administrative and support services,1023.503,13158.0
+Male,2018,Administrative and support services,1056.63,13990.0
+Male,2019,Administrative and support services,1049.145,14809.0
+Male,2020,Administrative and support services,1078.97,14737.5
+Male,2021,Administrative and support services,1167.226,14665.0
+Female,2017,Administrative and support services,800.45,11000.0
+Female,2018,Administrative and support services,857.829,11516.0
+Female,2019,Administrative and support services,853.723,12425.0
+Female,2020,Administrative and support services,855.899,13132.0
+Female,2021,Administrative and support services,976.043,11691.0
+Male,2017,Public administration and safety,563.436,69694.0
+Male,2018,Public administration and safety,626.479,68564.0
+Male,2019,Public administration and safety,584.404,71301.0
+Male,2020,Public administration and safety,590.999,74591.0
+Male,2021,Public administration and safety,658.314,70140.0
+Female,2017,Public administration and safety,491.015,56310.0
+Female,2018,Public administration and safety,640.11,51507.0
+Female,2019,Public administration and safety,519.412,59204.0
+Female,2020,Public administration and safety,527.33,63904.0
+Female,2021,Public administration and safety,622.43,56170.5
+Male,2017,Education and training,458.685,29221.0
+Male,2018,Education and training,446.551,27428.0
+Male,2019,Education and training,474.236,32031.5
+Male,2020,Education and training,464.077,36215.5
+Male,2021,Education and training,499.661,32399.0
+Female,2017,Education and training,1031.478,30307.0
+Female,2018,Education and training,988.92,28862.0
+Female,2019,Education and training,1066.52,33964.0
+Female,2020,Education and training,1065.633,36501.0
+Female,2021,Education and training,1175.18,32565.0
+Male,2017,Health care and social assistance,464.069,49199.0
+Male,2018,Health care and social assistance,495.63,49852.0
+Male,2019,Health care and social assistance,493.121,48074.0
+Male,2020,Health care and social assistance,578.676,50868.0
+Male,2021,Health care and social assistance,639.622,46915.0
+Female,2017,Health care and social assistance,1698.774,35395.0
+Female,2018,Health care and social assistance,1814.066,36371.0
+Female,2019,Health care and social assistance,1774.976,36079.0
+Female,2020,Health care and social assistance,2077.339,37535.0
+Female,2021,Health care and social assistance,2291.362,34353.0
+Male,2017,Arts and recreation services,184.569,10195.0
+Male,2018,Arts and recreation services,192.773,10576.0
+Male,2019,Arts and recreation services,192.931,12132.0
+Male,2020,Arts and recreation services,191.544,13932.0
+Male,2021,Arts and recreation services,209.296,9619.5
+Female,2017,Arts and recreation services,199.245,6861.0
+Female,2018,Arts and recreation services,215.345,7107.0
+Female,2019,Arts and recreation services,220.447,8028.0
+Female,2020,Arts and recreation services,225.357,8999.0
+Female,2021,Arts and recreation services,252.296,6258.0
+Male,2017,Other services,325.012,24479.0
+Male,2018,Other services,339.707,25467.0
+Male,2019,Other services,350.529,27600.0
+Male,2020,Other services,366.249,29262.0
+Male,2021,Other services,383.898,27610.0
+Female,2017,Other services,355.386,16244.0
+Female,2018,Other services,376.22,16875.0
+Female,2019,Other services,384.945,18442.0
+Female,2020,Other services,414.31,20153.0
+Female,2021,Other services,440.951,16867.0
