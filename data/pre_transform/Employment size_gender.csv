@@ -1,4 +1,19 @@
 feature,year,gender,number_of_jobs,median_income
+Employment size,2017-18,MALES,,
+Employment size,2018-19,MALES,,
+Employment size,2019-20,MALES,,
+Employment size,2020-21,MALES,,
+Employment size,2021-22,MALES,,
+Employment size,2017-18,FEMALES,,
+Employment size,2018-19,FEMALES,,
+Employment size,2019-20,FEMALES,,
+Employment size,2020-21,FEMALES,,
+Employment size,2021-22,FEMALES,,
+Employment size,2017-18,PERSONS,,
+Employment size,2018-19,PERSONS,,
+Employment size,2019-20,PERSONS,,
+Employment size,2020-21,PERSONS,,
+Employment size,2021-22,PERSONS,,
 Fewer than 5 employees,2017-18,MALES,1948.802,20272.0
 Fewer than 5 employees,2018-19,MALES,1740.089,21017.0
 Fewer than 5 employees,2019-20,MALES,1822.11,22248.0
@@ -59,18 +74,3 @@ Fewer than 5 employees,2021-22,PERSONS,3215.88,19246.0
 200 or more employees,2019-20,PERSONS,8253.635,44347.0
 200 or more employees,2020-21,PERSONS,8663.786,45728.0
 200 or more employees,2021-22,PERSONS,9723.622,40184.5
-Job duration,2017-18,MALES,,
-Job duration,2018-19,MALES,,
-Job duration,2019-20,MALES,,
-Job duration,2020-21,MALES,,
-Job duration,2021-22,MALES,,
-Job duration,2017-18,FEMALES,,
-Job duration,2018-19,FEMALES,,
-Job duration,2019-20,FEMALES,,
-Job duration,2020-21,FEMALES,,
-Job duration,2021-22,FEMALES,,
-Job duration,2017-18,PERSONS,,
-Job duration,2018-19,PERSONS,,
-Job duration,2019-20,PERSONS,,
-Job duration,2020-21,PERSONS,,
-Job duration,2021-22,PERSONS,,

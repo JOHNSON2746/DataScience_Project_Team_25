@@ -1,4 +1,19 @@
 feature,year,gender,number_of_jobs,median_income
+Institutional sector,2017-18,MALES,,
+Institutional sector,2018-19,MALES,,
+Institutional sector,2019-20,MALES,,
+Institutional sector,2020-21,MALES,,
+Institutional sector,2021-22,MALES,,
+Institutional sector,2017-18,FEMALES,,
+Institutional sector,2018-19,FEMALES,,
+Institutional sector,2019-20,FEMALES,,
+Institutional sector,2020-21,FEMALES,,
+Institutional sector,2021-22,FEMALES,,
+Institutional sector,2017-18,PERSONS,,
+Institutional sector,2018-19,PERSONS,,
+Institutional sector,2019-20,PERSONS,,
+Institutional sector,2020-21,PERSONS,,
+Institutional sector,2021-22,PERSONS,,
 Non-financial corporations,2017-18,MALES,5838.9,36350.0
 Non-financial corporations,2018-19,MALES,6014.004,38270.0
 Non-financial corporations,2019-20,MALES,6028.008,40493.0
@@ -74,18 +89,3 @@ Non-profit institutions serving households,2018-19,PERSONS,570.724,25331.0
 Non-profit institutions serving households,2019-20,PERSONS,592.999,28136.0
 Non-profit institutions serving households,2020-21,PERSONS,633.745,30150.0
 Non-profit institutions serving households,2021-22,PERSONS,662.468,28612.0
-Type of legal organisation,2017-18,MALES,,
-Type of legal organisation,2018-19,MALES,,
-Type of legal organisation,2019-20,MALES,,
-Type of legal organisation,2020-21,MALES,,
-Type of legal organisation,2021-22,MALES,,
-Type of legal organisation,2017-18,FEMALES,,
-Type of legal organisation,2018-19,FEMALES,,
-Type of legal organisation,2019-20,FEMALES,,
-Type of legal organisation,2020-21,FEMALES,,
-Type of legal organisation,2021-22,FEMALES,,
-Type of legal organisation,2017-18,PERSONS,,
-Type of legal organisation,2018-19,PERSONS,,
-Type of legal organisation,2019-20,PERSONS,,
-Type of legal organisation,2020-21,PERSONS,,
-Type of legal organisation,2021-22,PERSONS,,

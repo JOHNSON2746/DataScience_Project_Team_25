@@ -28,7 +28,7 @@ def extract_feature_tables(excel_path, feature_rows_path, sheet_name=0):
     years = df.iloc[7, 2:].tolist()
     data_start_col = 2
     group_width = 5
-    feature_start_row = 9
+    feature_start_row = 8
     feature_tables = {}
 
     for feature, row_count in feature_rows.items():
