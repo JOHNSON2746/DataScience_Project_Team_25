@@ -1,19 +1,4 @@
 feature,year,gender,number_of_jobs,median_income
-Industry,2017-18,MALES,,
-Industry,2018-19,MALES,,
-Industry,2019-20,MALES,,
-Industry,2020-21,MALES,,
-Industry,2021-22,MALES,,
-Industry,2017-18,FEMALES,,
-Industry,2018-19,FEMALES,,
-Industry,2019-20,FEMALES,,
-Industry,2020-21,FEMALES,,
-Industry,2021-22,FEMALES,,
-Industry,2017-18,PERSONS,,
-Industry,2018-19,PERSONS,,
-Industry,2019-20,PERSONS,,
-Industry,2020-21,PERSONS,,
-Industry,2021-22,PERSONS,,
 "Agriculture, forestry and fishing",2017-18,MALES,300.653,8023.0
 "Agriculture, forestry and fishing",2018-19,MALES,312.944,8500.0
 "Agriculture, forestry and fishing",2019-20,MALES,306.41,9191.0
@@ -284,3 +269,33 @@ Arts and recreation services,2018-19,PERSONS,408.118,8500.0
 Arts and recreation services,2019-20,PERSONS,413.378,9799.0
 Arts and recreation services,2020-21,PERSONS,417.257,10871.5
 Arts and recreation services,2021-22,PERSONS,462.056,7500.0
+Other services,2017-18,MALES,325.012,24479.0
+Other services,2018-19,MALES,339.707,25467.0
+Other services,2019-20,MALES,350.529,27600.0
+Other services,2020-21,MALES,366.249,29262.0
+Other services,2021-22,MALES,383.898,27610.0
+Other services,2017-18,FEMALES,355.386,16244.0
+Other services,2018-19,FEMALES,376.22,16875.0
+Other services,2019-20,FEMALES,384.945,18442.0
+Other services,2020-21,FEMALES,414.31,20153.0
+Other services,2021-22,FEMALES,440.951,16867.0
+Other services,2017-18,PERSONS,680.407,19535.0
+Other services,2018-19,PERSONS,715.925,20189.5
+Other services,2019-20,PERSONS,735.469,21916.0
+Other services,2020-21,PERSONS,780.796,23609.0
+Other services,2021-22,PERSONS,825.096,20880.0
+Institutional sector,2017-18,MALES,,
+Institutional sector,2018-19,MALES,,
+Institutional sector,2019-20,MALES,,
+Institutional sector,2020-21,MALES,,
+Institutional sector,2021-22,MALES,,
+Institutional sector,2017-18,FEMALES,,
+Institutional sector,2018-19,FEMALES,,
+Institutional sector,2019-20,FEMALES,,
+Institutional sector,2020-21,FEMALES,,
+Institutional sector,2021-22,FEMALES,,
+Institutional sector,2017-18,PERSONS,,
+Institutional sector,2018-19,PERSONS,,
+Institutional sector,2019-20,PERSONS,,
+Institutional sector,2020-21,PERSONS,,
+Institutional sector,2021-22,PERSONS,,

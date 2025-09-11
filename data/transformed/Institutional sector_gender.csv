@@ -1,34 +1,4 @@
 feature,year,gender,number_of_jobs,median_income
-Other services,2017-18,MALES,325.012,24479.0
-Other services,2018-19,MALES,339.707,25467.0
-Other services,2019-20,MALES,350.529,27600.0
-Other services,2020-21,MALES,366.249,29262.0
-Other services,2021-22,MALES,383.898,27610.0
-Other services,2017-18,FEMALES,355.386,16244.0
-Other services,2018-19,FEMALES,376.22,16875.0
-Other services,2019-20,FEMALES,384.945,18442.0
-Other services,2020-21,FEMALES,414.31,20153.0
-Other services,2021-22,FEMALES,440.951,16867.0
-Other services,2017-18,PERSONS,680.407,19535.0
-Other services,2018-19,PERSONS,715.925,20189.5
-Other services,2019-20,PERSONS,735.469,21916.0
-Other services,2020-21,PERSONS,780.796,23609.0
-Other services,2021-22,PERSONS,825.096,20880.0
-Institutional sector,2017-18,MALES,,
-Institutional sector,2018-19,MALES,,
-Institutional sector,2019-20,MALES,,
-Institutional sector,2020-21,MALES,,
-Institutional sector,2021-22,MALES,,
-Institutional sector,2017-18,FEMALES,,
-Institutional sector,2018-19,FEMALES,,
-Institutional sector,2019-20,FEMALES,,
-Institutional sector,2020-21,FEMALES,,
-Institutional sector,2021-22,FEMALES,,
-Institutional sector,2017-18,PERSONS,,
-Institutional sector,2018-19,PERSONS,,
-Institutional sector,2019-20,PERSONS,,
-Institutional sector,2020-21,PERSONS,,
-Institutional sector,2021-22,PERSONS,,
 Non-financial corporations,2017-18,MALES,5838.9,36350.0
 Non-financial corporations,2018-19,MALES,6014.004,38270.0
 Non-financial corporations,2019-20,MALES,6028.008,40493.0
@@ -74,3 +44,48 @@ General government,2018-19,PERSONS,2661.35,58674.0
 General government,2019-20,PERSONS,2473.016,62261.0
 General government,2020-21,PERSONS,2625.676,67143.0
 General government,2021-22,PERSONS,2934.535,61507.0
+Households,2017-18,MALES,1961.12,18136.0
+Households,2018-19,MALES,1959.58,18636.0
+Households,2019-20,MALES,1966.267,19162.0
+Households,2020-21,MALES,1974.467,21388.0
+Households,2021-22,MALES,1744.635,18277.0
+Households,2017-18,FEMALES,1620.298,11821.0
+Households,2018-19,FEMALES,1644.824,12240.0
+Households,2019-20,FEMALES,1646.855,13620.0
+Households,2020-21,FEMALES,1705.997,14458.0
+Households,2021-22,FEMALES,1520.708,11467.0
+Households,2017-18,PERSONS,3581.449,14836.0
+Households,2018-19,PERSONS,3604.407,15276.0
+Households,2019-20,PERSONS,3613.114,16316.0
+Households,2020-21,PERSONS,3686.062,17791.0
+Households,2021-22,PERSONS,3269.895,14461.0
+Non-profit institutions serving households,2017-18,MALES,185.144,19869.0
+Non-profit institutions serving households,2018-19,MALES,184.851,20985.0
+Non-profit institutions serving households,2019-20,MALES,189.53,23980.0
+Non-profit institutions serving households,2020-21,MALES,200.226,26531.0
+Non-profit institutions serving households,2021-22,MALES,203.035,25987.0
+Non-profit institutions serving households,2017-18,FEMALES,388.441,25984.0
+Non-profit institutions serving households,2018-19,FEMALES,385.866,27270.0
+Non-profit institutions serving households,2019-20,FEMALES,403.467,29894.0
+Non-profit institutions serving households,2020-21,FEMALES,433.296,31811.5
+Non-profit institutions serving households,2021-22,FEMALES,459.235,29736.5
+Non-profit institutions serving households,2017-18,PERSONS,573.582,24119.0
+Non-profit institutions serving households,2018-19,PERSONS,570.724,25331.0
+Non-profit institutions serving households,2019-20,PERSONS,592.999,28136.0
+Non-profit institutions serving households,2020-21,PERSONS,633.745,30150.0
+Non-profit institutions serving households,2021-22,PERSONS,662.468,28612.0
+Type of legal organisation,2017-18,MALES,,
+Type of legal organisation,2018-19,MALES,,
+Type of legal organisation,2019-20,MALES,,
+Type of legal organisation,2020-21,MALES,,
+Type of legal organisation,2021-22,MALES,,
+Type of legal organisation,2017-18,FEMALES,,
+Type of legal organisation,2018-19,FEMALES,,
+Type of legal organisation,2019-20,FEMALES,,
+Type of legal organisation,2020-21,FEMALES,,
+Type of legal organisation,2021-22,FEMALES,,
+Type of legal organisation,2017-18,PERSONS,,
+Type of legal organisation,2018-19,PERSONS,,
+Type of legal organisation,2019-20,PERSONS,,
+Type of legal organisation,2020-21,PERSONS,,
+Type of legal organisation,2021-22,PERSONS,,
