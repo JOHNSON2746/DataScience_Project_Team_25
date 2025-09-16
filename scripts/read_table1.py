@@ -15,8 +15,8 @@ def main():
     tables = extract_feature_tables(file_path, feature_rows, table_name)
     for feature, df in tables.items():
         filename = f"{feature}_gender.csv"
-        df.to_csv(f"data/transformed/{filename}", index=False)
-        print(f"{feature} 已保存为 {filename}")
+        df.to_csv(f"data/pre_transform/{filename}", index=False)
+        print(f"{feature} saved as {filename}")
 
 if __name__ == "__main__":
     main()

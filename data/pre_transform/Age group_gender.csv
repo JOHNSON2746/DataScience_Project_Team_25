@@ -1,4 +1,19 @@
 feature,year,gender,number_of_jobs,median_income
+Age group,2017-18,MALES,,
+Age group,2018-19,MALES,,
+Age group,2019-20,MALES,,
+Age group,2020-21,MALES,,
+Age group,2021-22,MALES,,
+Age group,2017-18,FEMALES,,
+Age group,2018-19,FEMALES,,
+Age group,2019-20,FEMALES,,
+Age group,2020-21,FEMALES,,
+Age group,2021-22,FEMALES,,
+Age group,2017-18,PERSONS,,
+Age group,2018-19,PERSONS,,
+Age group,2019-20,PERSONS,,
+Age group,2020-21,PERSONS,,
+Age group,2021-22,PERSONS,,
 14 years and under,2017-18,MALES,10.176,1244.0
 14 years and under,2018-19,MALES,11.34,1129.0
 14 years and under,2019-20,MALES,10.727,1262.5
