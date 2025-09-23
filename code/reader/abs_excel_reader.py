@@ -1,15 +1,40 @@
 import pandas as pd
 import json
 
-# feature_rows = {
-#     "Age group": 17,
-#     "Industry": 19,
-#     "Institutional sector": 5,
-#     "Type of legal organisation": 3,
-#     "Employment size": 4,
-#     "Job duration": 4
-# }
+"""
+abs_excel_reader.py
+This module provides functions to extract and process feature tables from ABS Excel files, 
+organizing data by feature, year, and gender. It reads configuration from a JSON file 
+specifying the number of rows for each feature in the Excel sheet.
+Functions:
+----------
+read_feature_rows(json_path):
+    Reads a JSON file containing the mapping of feature names to their row counts in the Excel file.
+fill_gender(genders):
+    Fills missing gender values in a list using forward fill, returning a complete list.
+extract_feature_tables(excel_path, feature_rows_path, sheet_name=0):
+    Extracts tables for each feature from the specified Excel file, using the configuration from the JSON file.
+    Returns a dictionary mapping feature names to pandas DataFrames containing records with feature, year, gender, 
+    number of jobs, and median income.
+Example Usage:
+--------------
+tables = extract_feature_tables("test_data/Table1_test.xlsx", "feature_rows.json", "Table 1.1")
+for feature, df in tables.items():
+    filename = f"{feature}_gender.csv"
+    df.to_csv(f"test_result/{filename}", index=False)
+    print(f"{feature} saved as {filename}")
+--------------
+Note: Execution code is located in the script folder, not in this module.
+"""
 
+# feature_rows = {
+#     "Age group": 18,
+#     "Industry": 20,
+#     "Institutional sector": 6,
+#     "Type of legal organisation": 4,
+#     "Employment size": 5,
+#     "Job duration": 5
+# }
 # with open("feature_rows.json", "w", encoding="utf-8") as f:
 #     json.dump(feature_rows, f, ensure_ascii=False, indent=4)
 
@@ -57,10 +82,10 @@ def extract_feature_tables(excel_path, feature_rows_path, sheet_name=0):
 
     return feature_tables
 
-# 用法示例
+# example usage
 # To modify raw data path
 # tables = extract_feature_tables("test_data/Table1_test.xlsx", "feature_rows.json", "Table 1.1")
 # for feature, df in tables.items():
 #     filename = f"{feature}_gender.csv"
 #     df.to_csv(f"test_result/{filename}", index=False)
-#     print(f"{feature} 已保存为 {filename}")
+#     print(f"{feature} saved as {filename}")
