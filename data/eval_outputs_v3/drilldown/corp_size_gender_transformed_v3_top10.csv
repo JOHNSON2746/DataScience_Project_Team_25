@@ -1,0 +1,9 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,rank_in_gender
+corp_size_gender_transformed_v3.csv,Business_size,FEMALES,200 or more employees,0.7830107929240506,0.3926840382783048,-39.033,0.390327,under,False,False,1
+corp_size_gender_transformed_v3.csv,Business_size,FEMALES,20 to 199 employees,0.0,0.2772898628775011,27.729,0.27729,over,False,True,2
+corp_size_gender_transformed_v3.csv,Business_size,FEMALES,5 to 19 employees,0.0,0.1529060855876382,15.291,0.152906,over,False,True,3
+corp_size_gender_transformed_v3.csv,Business_size,FEMALES,fewer than 5 employees,0.2169892070759493,0.1771200132565557,-3.987,0.039869,under,False,False,4
+corp_size_gender_transformed_v3.csv,Business_size,MALES,20 to 199 employees,0.0,0.2256925958789312,22.569,0.225693,over,False,True,1
+corp_size_gender_transformed_v3.csv,Business_size,MALES,200 or more employees,0.6847216641203729,0.4748496500049295,-20.987,0.209872,under,False,False,2
+corp_size_gender_transformed_v3.csv,Business_size,MALES,fewer than 5 employees,0.3152783358796271,0.1550823227841861,-16.02,0.160196,under,False,False,3
+corp_size_gender_transformed_v3.csv,Business_size,MALES,5 to 19 employees,0.0,0.144375431331953,14.438,0.144375,over,False,True,4

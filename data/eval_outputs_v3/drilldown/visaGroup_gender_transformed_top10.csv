@@ -1,0 +1,21 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,rank_in_gender
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,permanent skilled,0.1727292876174677,0.1157670160321471,-5.696,0.056962,under,False,False,1
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,permanent,0.3193611322100474,0.3507601806205725,3.14,0.031399,over,False,False,2
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,temporary student,0.0461390675497862,0.0747545465843655,2.862,0.028615,over,False,False,3
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,permanent other,0.0220370413713185,0.0045569410497535,-1.748,0.01748,under,False,False,4
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,temporary,0.1990644974092026,0.21483905712747,1.577,0.015775,over,False,False,5
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,permanent humanitarian,0.015440484328117,0.0257052901942913,1.026,0.010265,over,False,False,6
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,permanent family,0.1091514548267842,0.099009900990099,-1.014,0.010142,under,False,False,7
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,temporary working holiday maker,0.0181167537847159,0.0253531629313558,0.724,0.007236,over,False,False,8
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,bridging visas,0.0219278057396816,0.0148514851485148,-0.708,0.007076,under,False,False,9
+visaGroup_gender_transformed.csv,Visa_group,FEMALES,temporary skilled,0.0081542361800314,0.0035419859977629,-0.461,0.004612,under,False,False,10
+visaGroup_gender_transformed.csv,Visa_group,MALES,permanent skilled,0.190482075857503,0.2530020703933747,6.252,0.06252,over,False,False,1
+visaGroup_gender_transformed.csv,Visa_group,MALES,temporary student,0.0496252903414118,0.0245883860790693,-2.504,0.025037,under,False,False,2
+visaGroup_gender_transformed.csv,Visa_group,MALES,nz citizen (subclass 444),0.0484657970283379,0.0292221236320615,-1.924,0.019244,under,False,False,3
+visaGroup_gender_transformed.csv,Visa_group,MALES,permanent other,0.020133844288168,0.037641723356009,1.751,0.017508,over,False,False,4
+visaGroup_gender_transformed.csv,Visa_group,MALES,permanent,0.2980718162475424,0.280804495711328,-1.727,0.017267,under,False,False,5
+visaGroup_gender_transformed.csv,Visa_group,MALES,temporary working holiday maker,0.016393914439456,0.0016957507640737,-1.47,0.014698,under,False,False,6
+visaGroup_gender_transformed.csv,Visa_group,MALES,permanent family,0.0637816203971235,0.0758355516119491,1.205,0.012054,over,False,False,7
+visaGroup_gender_transformed.csv,Visa_group,MALES,permanent humanitarian,0.023657513256819,0.0149659863945578,-0.869,0.008692,under,False,False,8
+visaGroup_gender_transformed.csv,Visa_group,MALES,temporary skilled,0.0114043599114398,0.0163659666765256,0.496,0.004962,over,False,False,9
+visaGroup_gender_transformed.csv,Visa_group,MALES,temporary,0.2224746372777062,0.2175293305728088,-0.495,0.004945,under,False,False,10

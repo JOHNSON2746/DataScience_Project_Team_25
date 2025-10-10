@@ -1,0 +1,13 @@
+\subsubsection{Evaluation Summary (Auto-generated)}
+In total, 7 tables were evaluated; 6 were flagged. Mean TVD (overall/flagged) = 0.1348/0.1488. Thresholds: TVD$_{mean}$>0.06, MaxAbsDev>0.08, zero/only rates $\ge 10\%$, directional bias $\ge 70\%$.
+\paragraph{Likely Causes.} Label alignment/enum: 1; Missing support: 0; Directional bias: 0; Global miscalibration: 5.
+\begin{table}[h]\centering\small
+\begin{tabular}{lcccccc}\toprule
+Table & tvd\_mean & maxAbsDev & Reason & Suggested & Priority \\ \midrule
+ sector\textbackslash{}_gender\textbackslash{}_transformed\textbackslash{}_v3.csv & 0.2745 & 0.3006 & tvd\textbackslash{}_mean>0.06 \textbackslash{}& max\textbackslash{}_abs\textbackslash{}_dev\textbackslash{}_max>0.08 & label\textbackslash{}_alignment\textbackslash{}_normalization & High \\
+ industry\textbackslash{}_gender\textbackslash{}_transformed\textbackslash{}_v3.csv & 0.2092 & 0.0790 & tvd\textbackslash{}_mean>0.06 & genderwise\textbackslash{}_calibration\textbackslash{}_raking & High \\
+ age\textbackslash{}_gender\textbackslash{}_transformed\textbackslash{}_v3.csv & 0.1390 & 0.0549 & tvd\textbackslash{}_mean>0.06 & genderwise\textbackslash{}_calibration\textbackslash{}_raking & High \\
+ arrivalGroup\textbackslash{}_gender\textbackslash{}_transformed.csv & 0.1027 & 0.1052 & tvd\textbackslash{}_mean>0.06 \textbackslash{}& max\textbackslash{}_abs\textbackslash{}_dev\textbackslash{}_max>0.08 & genderwise\textbackslash{}_calibration\textbackslash{}_raking & High \\
+ visaGroup\textbackslash{}_gender\textbackslash{}_transformed.csv & 0.0976 & 0.0625 & tvd\textbackslash{}_mean>0.06 & genderwise\textbackslash{}_calibration\textbackslash{}_raking & High \\
+\bottomrule\end{tabular}\caption{Top flagged tables and actions.}\end{table}
+\paragraph{Next Steps.} See \texttt{modification\textbackslash{}_plan.csv} for per-category adjustments (in pp). Fix labels/support first, then apply within-gender calibration and re-run evaluation. If persistent multi-table gaps remain, consider income-stratified comparison $P(c\mid g,i)$.

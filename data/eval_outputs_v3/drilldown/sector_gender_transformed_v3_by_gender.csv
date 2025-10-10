@@ -1,0 +1,11 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,abs_diff_rank
+sector_gender_transformed_v3.csv,Institutional_sector,FEMALES,households,0.0,0.2168068271262272,21.681,0.216807,over,False,True,1.0
+sector_gender_transformed_v3.csv,Institutional_sector,FEMALES,general government,0.2287086951818135,0.0570860433323667,-17.162,0.171623,under,False,False,2.0
+sector_gender_transformed_v3.csv,Institutional_sector,FEMALES,financial corporations,0.0537249081704081,0.0058618832594556,-4.786,0.047863,under,False,False,3.0
+sector_gender_transformed_v3.csv,Institutional_sector,FEMALES,non-profit institutions serving households,0.0,0.031587886822155,3.159,0.031588,over,False,True,4.0
+sector_gender_transformed_v3.csv,Institutional_sector,FEMALES,non-financial corporations,0.7175663966477782,0.6886573594597953,-2.891,0.028909,under,False,False,5.0
+sector_gender_transformed_v3.csv,Institutional_sector,MALES,non-financial corporations,0.8221836671967069,0.5215813861776595,-30.06,0.300602,under,False,False,1.0
+sector_gender_transformed_v3.csv,Institutional_sector,MALES,households,0.0,0.1570344079660849,15.703,0.157034,over,False,True,2.0
+sector_gender_transformed_v3.csv,Institutional_sector,MALES,general government,0.1280635390172195,0.216030760130139,8.797,0.087967,over,False,False,3.0
+sector_gender_transformed_v3.csv,Institutional_sector,MALES,non-profit institutions serving households,0.0,0.0320418022281376,3.204,0.032042,over,False,True,4.0
+sector_gender_transformed_v3.csv,Institutional_sector,MALES,financial corporations,0.0497527937860736,0.0733116434979789,2.356,0.023559,over,False,False,5.0

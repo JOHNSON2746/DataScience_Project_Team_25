@@ -1,0 +1,9 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,abs_diff_rank
+jobDuration_gender_transformed.csv,Job_duration,FEMALES,40 to 52 weeks,0.5972237382315447,0.5452172832345996,-5.201,0.052006,under,False,False,1.0
+jobDuration_gender_transformed.csv,Job_duration,FEMALES,1 to 13 weeks,0.1595376150103004,0.1994904511371639,3.995,0.039953,over,False,False,2.0
+jobDuration_gender_transformed.csv,Job_duration,FEMALES,14 to 26 weeks,0.138264552748183,0.1454906996975848,0.723,0.007226,over,False,False,3.0
+jobDuration_gender_transformed.csv,Job_duration,FEMALES,27 to 39 weeks,0.1049740940099719,0.1098015659306516,0.483,0.004827,over,False,False,4.0
+jobDuration_gender_transformed.csv,Job_duration,MALES,40 to 52 weeks,0.5880687799507694,0.6374248250024648,4.936,0.049356,over,False,False,1.0
+jobDuration_gender_transformed.csv,Job_duration,MALES,1 to 13 weeks,0.169295292770583,0.1314206842157152,-3.787,0.037875,under,False,False,2.0
+jobDuration_gender_transformed.csv,Job_duration,MALES,14 to 26 weeks,0.1377821619483394,0.130908015380065,-0.687,0.006874,under,False,False,3.0
+jobDuration_gender_transformed.csv,Job_duration,MALES,27 to 39 weeks,0.1048537653303081,0.1002464754017549,-0.461,0.004607,under,False,False,4.0

@@ -1,0 +1,21 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,rank_in_gender
+industry_gender_transformed_v3.csv,Industry,FEMALES,construction,0.0231576370648645,0.1004391234102489,7.728,0.077281,over,False,False,1
+industry_gender_transformed_v3.csv,Industry,FEMALES,health care and social assistance,0.2085218012382287,0.1560338042172418,-5.249,0.052488,under,False,False,2
+industry_gender_transformed_v3.csv,Industry,FEMALES,"transport, postal and warehousing",0.0195724892758245,0.060338042172418,4.077,0.040766,over,False,False,3
+industry_gender_transformed_v3.csv,Industry,FEMALES,accommodation and food services,0.0968578120704164,0.1310327685488214,3.417,0.034175,over,False,False,4
+industry_gender_transformed_v3.csv,Industry,FEMALES,manufacturing,0.0346380522238816,0.0074568126268693,-2.718,0.027181,under,False,False,5
+industry_gender_transformed_v3.csv,Industry,FEMALES,finance and insurance services,0.0440030431842458,0.0181449107253821,-2.586,0.025858,under,False,False,6
+industry_gender_transformed_v3.csv,Industry,FEMALES,public administration and safety,0.0604693156385482,0.0355648535564853,-2.49,0.024904,under,False,False,7
+industry_gender_transformed_v3.csv,Industry,FEMALES,wholesale trade,0.0282345989975078,0.004888354944281,-2.335,0.023346,under,False,False,8
+industry_gender_transformed_v3.csv,Industry,FEMALES,arts and recreation services,0.0240273095381869,0.0054061891544803,-1.862,0.018621,under,False,False,9
+industry_gender_transformed_v3.csv,Industry,FEMALES,other services,0.0,0.0175649364099589,1.756,0.017565,over,False,True,10
+industry_gender_transformed_v3.csv,Industry,MALES,construction,0.1295715631595962,0.0505767524401064,-7.899,0.078995,under,False,False,1
+industry_gender_transformed_v3.csv,Industry,MALES,other services,0.0,0.0569653948535936,5.697,0.056965,over,False,True,2
+industry_gender_transformed_v3.csv,Industry,MALES,"transport, postal and warehousing",0.0638919011000275,0.0220841959972394,-4.181,0.041808,under,False,False,3
+industry_gender_transformed_v3.csv,Industry,MALES,health care and social assistance,0.0545725964381952,0.0945085280489007,3.994,0.039936,over,False,False,4
+industry_gender_transformed_v3.csv,Industry,MALES,accommodation and food services,0.0739545738651798,0.0351966873706004,-3.876,0.038758,under,False,False,5
+industry_gender_transformed_v3.csv,Industry,MALES,manufacturing,0.0784100425812936,0.1002070393374741,2.18,0.021797,over,False,False,6
+industry_gender_transformed_v3.csv,Industry,MALES,finance and insurance services,0.0411863725885968,0.0626441881100266,2.146,0.021458,over,False,False,7
+industry_gender_transformed_v3.csv,Industry,MALES,wholesale trade,0.0474902812052129,0.0669624371487725,1.947,0.019472,over,False,False,8
+industry_gender_transformed_v3.csv,Industry,MALES,public administration and safety,0.0617746759647507,0.0809622399684511,1.919,0.019188,over,False,False,9
+industry_gender_transformed_v3.csv,Industry,MALES,retail trade,0.0811006122014808,0.0627427782707285,-1.836,0.018358,under,False,False,10

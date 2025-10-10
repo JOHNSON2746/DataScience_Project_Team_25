@@ -1,0 +1,8 @@
+table,status,issue,bn_feature_col,overlap_ratio,missing_targets
+age_gender_transformed_v3.csv,OK,explicit TABLE_COLUMN_MAP used,Age,,
+arrivalGroup_gender_transformed.csv,OK,explicit TABLE_COLUMN_MAP used,Arrival_group,,
+businessSize_gender_transformed.csv,OK,explicit TABLE_COLUMN_MAP used,Business_size,,
+industry_gender_transformed_v3.csv,OK,explicit TABLE_COLUMN_MAP used,Industry,,
+sector_gender_transformed_v3.csv,OK,explicit TABLE_COLUMN_MAP used,Institutional_sector,,
+jobDuration_gender_transformed.csv,OK,explicit TABLE_COLUMN_MAP used,Job_duration,,
+visaGroup_gender_transformed.csv,OK,explicit TABLE_COLUMN_MAP used,Visa_group,,

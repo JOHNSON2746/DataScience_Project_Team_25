@@ -1,0 +1,7 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,rank_in_gender
+arrivalGroup_gender_transformed.csv,Arrival_group,FEMALES,11+ years,0.4923829434954781,0.3871535689133767,-10.523,0.105229,under,False,False,1
+arrivalGroup_gender_transformed.csv,Arrival_group,FEMALES,6-10 years,0.3175502265013702,0.3903020009113882,7.275,0.072752,over,False,False,2
+arrivalGroup_gender_transformed.csv,Arrival_group,FEMALES,0-5 years,0.1900668300031517,0.2225444301752351,3.248,0.032478,over,False,False,3
+arrivalGroup_gender_transformed.csv,Arrival_group,MALES,11+ years,0.5024369847610506,0.6026224982746722,10.019,0.100186,over,False,False,1
+arrivalGroup_gender_transformed.csv,Arrival_group,MALES,6-10 years,0.3169919405626957,0.2476782017154688,-6.931,0.069314,under,False,False,2
+arrivalGroup_gender_transformed.csv,Arrival_group,MALES,0-5 years,0.1805710746762536,0.149699300009859,-3.087,0.030872,under,False,False,3
