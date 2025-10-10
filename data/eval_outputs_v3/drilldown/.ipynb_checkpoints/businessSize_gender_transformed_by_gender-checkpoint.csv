@@ -1,0 +1,9 @@
+table,bn_feature_col,gender,feature,target_prop,sample_prop,diff_pp,abs_diff,sign,zero_coverage,only_in_sample,abs_diff_rank
+businessSize_gender_transformed.csv,Business_size,FEMALES,200 or more employees,0.4652703383534883,0.3926840382783048,-7.259,0.072586,under,False,False,1.0
+businessSize_gender_transformed.csv,Business_size,FEMALES,fewer than 5 employees,0.1409553304964474,0.1771200132565557,3.616,0.036165,over,False,False,2.0
+businessSize_gender_transformed.csv,Business_size,FEMALES,20 to 199 employees,0.2415757168894375,0.2772898628775011,3.571,0.035714,over,False,False,3.0
+businessSize_gender_transformed.csv,Business_size,FEMALES,5 to 19 employees,0.1521986142606267,0.1529060855876382,0.071,0.000707,over,False,False,4.0
+businessSize_gender_transformed.csv,Business_size,MALES,200 or more employees,0.4074174963900214,0.4748496500049295,6.743,0.067432,over,False,False,1.0
+businessSize_gender_transformed.csv,Business_size,MALES,20 to 199 employees,0.2592365717133729,0.2256925958789312,-3.354,0.033544,under,False,False,2.0
+businessSize_gender_transformed.csv,Business_size,MALES,fewer than 5 employees,0.1881526732695267,0.1550823227841861,-3.307,0.03307,under,False,False,3.0
+businessSize_gender_transformed.csv,Business_size,MALES,5 to 19 employees,0.145193258627079,0.144375431331953,-0.082,0.000818,under,False,False,4.0
